@@ -1,0 +1,106 @@
+,Unnamed: 0,Scan ID,Cytology no.,Diagnosis/Bethesda system,Bethesda actual,Histopathology,Surgery diagnosis in number,Present,Present (Manual)
+0,0,TAN001,C-11-22,Malignant,6,Anaplastic carcinoma,1,1,exist
+1,1,TAN002,C-20-22,Benign nodule,2,Simple Nodular Goitre,0,1,exist
+2,2,TAN003,C-53-23,Benign nodule,2,Simple Nodular Goitre,0,1,exist
+3,3,TAN004,C-36-23,Benign nodule,2,Simple Nodular Goitre,0,1,exist
+4,4,TAN005,C-373-20,Benign nodule,2,Simple Nodular Goitre,0,1,exist
+5,5,TAN006,C-187-19,Benign,2,Simple Nodular Goitre,0,1,exist
+6,6,TAN007,C-686-19,Benign,2,Simple Nodular Goitre,0,1,exist
+7,7,TAN008,C-1002-19,Suspicious for Follicular neoplasim,4,Follicular adenoma,0,1,exist
+8,8,TAN009,C-071-21,Neoplams hurthle,4,Goitre,0,1,exist
+9,9,TAN010,C-115-21,Malignancy,6,"Carcinoma, NOS",1,1,exist
+10,10,TAN011,C-149-21,Benign thyroid nodule,2,Simple Nodular Goitre,0,1,exist
+11,11,TAN012,C-019-21,Goitre,2,Goitre,0,1,exist
+12,12,TAN013,C-065-21,Benign,2,Adenomatous goitre,0,1,exist
+13,13,TAN014,C-750-20,Goitre,2,Simple Nodular Goitre,0,1,exist
+14,14,TAN015,C-643-20,Goitre,2,Simple Nodular Goitre,0,1,exist
+15,15,TAN016,C-081-22,Thyroidetis,2,Thyroid carcinoma,1,1,exist
+16,16,TAN017,C-007-22,Benign nodule,2,Simple Nodular Goitre,0,1,exist
+17,17,TAN018,C-291-22,ASCUS,3,Follicular adenoma,0,1,exist
+18,18,TAN019,C-285-22,Follicular neoplasm,4,Follicular adenoma,0,1,exist
+19,19,TAN020,C-76-23,Goitre,2,Simple Nodular Goitre,0,1,exist
+20,20,TAN021,C-388-22,Follicular neoplasm,4,Multinodular goire with cystic changes,0,1,exist
+21,21,TAN022,C-428-22,Goitre,2,Goitre,0,1,exist
+22,22,TAN023,C-440-22,Goitre,2,Goitre,0,1,exist
+23,23,TAN024,C-454-22,Benign nodule,2,Simple Nodular Goitre,0,1,exist
+24,24,TAN025,C-102-23,Benign nodule,2,Simple Nodular Goitre,0,1,exist
+25,25,TAN026,C-508-22,Benign nodule,2,Simple Nodular Goitre,0,1,exist
+26,26,TAN027,C-517-22,Lymph node(DLBCL),6,No biopsy,,1,exist
+27,27,TAN028,C-527-22,Malignant lesion,6,No biopsy,,1,exist
+28,28,TAN029,C-558-22,Follicular neoplasm,4,Simple Nodular Goitre,0,1,exist
+29,29,TAN030,C-606-22,Granulomatous inflammation,2,Bening nodule,0,1,exist
+30,30,TAN031,C-614-22,Carcinoma,6,Squamous cell carcinoma; metastatic?,1,1,exist
+31,31,TAN032,C-849-19,ASCUS,3,Follicular adenoma,0,1,exist
+32,32,TAN033,C-882-19,Goitre,2,Simple Nodular Goitre,0,1,exist
+33,33,TAN034,C-327-19,Benign,2,Simple Nodular Goitre,0,1,exist
+34,34,TAN035,C-166-21,Goitre,2,Simple Nodular Goitre,0,1,exist
+35,35,TAN036,C-243-21,Goitre,2,Simple Nodular Goitre,0,1,exist
+36,36,TAN037,C-247-20,Malignancy,6,Follicular adenoma,0,1,exist
+37,37,TAN038,C-131-22,Benign,2,Hyperplastic goitre,0,1,non exist
+38,38,TAN039,C-150-22,Benign nodule,2,Goitre,0,1,non exist
+39,39,TAN040,C-151-22,Benign goitre,2,Simple Nodular Goitre,0,1,non exist
+40,40,TAN041,C-343-22,Benign nodule,2,Simple Nodular Goitre,0,1,non exist
+41,41,TAN042,C-620-22,Benign nodule,2,Simple Nodular Goitre,0,1,non exist
+42,42,TAN043,C-743-22,Benign nodule,2,Simple Nodular Goitre,0,1,exist
+43,43,TAN044,C-772-22,Goitre nodule,2,Goitre,0,1,non exist
+44,44,TAN045,C-788-22,Benign nodule,2,Goitre,0,1,non exist
+45,45,TAN046,C-800-22,Granulomatous/Benign,2,Bening nodule,0,1,non exist
+46,46,TAN047,C-809-22,Benign nodule,2,Simple Nodular Goitre,0,1,exist
+47,47,TAN048,C-308-22,Benign nodule,2,Simple Nodular Goitre,0,1,non exist
+48,48,TAN049,C-196-22,Benign,2,Simple Nodular Goitre,0,1,non exist
+49,49,TAN050,C-486-21,Goitre,2,Simple Nodular Goitre,0,1,non exist
+50,50,TAN051,C-477-21,benign,2,Simple Nodular Goitre,0,1,non exist
+51,51,TAN052,C-325-21,Benign,2,Simple Nodular Goitre,0,1,non exist
+52,52,TAN053,C-205-21,Benign,2,Simple Nodular Goitre,0,1,non exist
+53,53,TAN054,C-019-21,Goitre,2,Simple Nodular Goitre,0,1,exist
+54,54,TAN055,C-175-21,Goitre,2,Simple Nodular Goitre,0,1,non exist
+55,55,TAN056,C-617-22, Neoplasm,4,Follicular adenoma,0,1,exist
+56,56,TAN057,C-622-22,Benign,2,Simple Nodular Goitre,0,1,exist
+57,57,TAN058,C-649-22,Benign,2,Simple Nodular Goitre,0,1,non exist
+58,58,TAN059,C-613-22,Benign,2,Simple Nodular Goitre,0,1,exist
+59,59,TAN060,C-620-22, Benign,2,Simple Nodular Goitre,0,1,exist
+60,60,TAN061,C-341-21,Benign,2,Simple Nodular Goitre,0,1,exist
+61,61,TAN062,C-007-22,benign,2,Simple Nodular Goitre,0,1,non exist
+62,62,TAN063,C-309-22,Malignancy,6,Squamous cell carcinoma,1,1,exist
+63,63,TAN064,C-329-22,Benign,2,Simple Nodular Goitre,0,1,exist
+64,64,TAN065,C-512-22,Malignancy,6,Carcinoma,1,1,non exist
+65,65,TAN066,C-844-22,Benign,2,Simple Nodular Goitre,0,1,exist
+66,66,TAN067,C-842-22,Benign,2,Simple Nodular Goitre,0,1,exist
+67,67,TAN068,C-826-22,Abscess,2,Metastatic carcinoma,1,1,exist
+68,68,TAN069,C-827-22, Benign,2,Simple Nodular Goitre,0,1,exist
+69,69,TAN070,C-773-22,Mucocele,2,Cystic goitre,0,1,exist
+70,70,TAN071,C-774-22,Malignact malonoma,6,Melanoma,1,1,exist
+71,71,TAN072,C-752-22,Inconcusive,1,Simple Nodular Goitre,0,1,exist
+72,72,TAN073,C-764-22,Goitre,2,Simple Nodular Goitre,0,1,exist
+73,73,TAN074,C-737-22,suspicious for malignancy,5,Inadequate specimen,,1,non exist
+74,74,TAN075,C-720-22,Lipoma,2,Lipoma,,1,exist
+75,75,TAN076,C-725-22,Goitre,2,Goitre,0,1,exist
+76,76,TAN077,C-729-22,Goitre,2,Goitre,0,1,exist
+77,77,TAN078,C-727-22,Goitre,2,Cystic goitre,0,1,exist
+78,78,TAN079,C-682-22,Hashimoto thyroiditis,2,Hashimoto thyroiditis,0,1,exist
+79,79,TAN080,C-719-22,Benign nodule,2,Simple Nodular Goitre,0,1,exist
+80,80,TAN081,C-745-22,Benign nodule,2,Simple Nodular Goitre,0,1,exist
+81,81,TAN082,C-740-22,Carcinoma,6,Thyroid carcinoma; NOS,1,1,exist
+82,82,TAN083,C-739-22,Benign nodule,2,Simple Nodular Goitre,0,1,exist
+83,83,TAN084,C-771-22, Benign nodule,2,Simple Nodular Goitre,0,1,exist
+84,84,TAN085,C-762-22,Goitre,2,Simple Nodular Goitre,0,1,exist
+85,85,TAN086,C-754-22,Goitre,2,Simple Nodular Goitre,0,1,exist
+86,86,TAN087,C-753-22,Benign nodule,2,Simple Nodular Goitre,0,1,exist
+87,87,TAN088,C-851-22,Thyroiditis,2,Chronic thyroiditis/Hashimoto,0,1,exist
+88,88,TAN089,C-863-22,Goitre,2,Colloid goitre,0,1,exist
+89,89,TAN090,C-850-22,Follicular neoplasm,4,Follicular adenoma,0,1,exist
+90,90,TAN091,C-825-22,Goitre,2,Goitre,0,1,exist
+91,91,TAN092,C-797-22,Benign nodule,2,Goitre ,0,1,exist
+92,92,TAN093,C-816-22,Thyroiditis,2,Hashimoto thyroiditis,0,1,exist
+93,93,TAN094,C-818-22,Benign,2,Follicular adenoma,0,1,exist
+94,94,TAN095,C-841-22,Benign,2,Goitre with thyroiditis,0,1,exist
+95,95,TAN096,C-814-22,Goitre,2,Follicular adenoma,0,1,exist
+96,96,TAN097,C-085-22,Beign,2,Colloid goitre,0,1,exist
+97,97,TAN098,C-789-22,Follicular neoplasm,4,Follicular adenoma,0,1,exist
+98,98,TAN099,C-089-23,Follicular neoplasm,4,Follicular adenoma,0,1,exist
+99,99,TAN100,C-071-23,Follicular neoplasm,4,Adenomatous goitre,0,1,exist
+100,100,TAN101,C-076-23,Carcinoma,6,No biopsy,,1,exist
+101,101,TAN102,C-285-23,Goitre/thyroiditis,2,Cystic goitre,0,1,exist
+102,102,TAN103,CP-01-23,Carcinoma,6,Anaplastic carcinoma,1,1,exist
+103,103,TAN104,C-302-23,Colloid goitre,2,Colloid goitre,0,1,exist
+104,104,TAN105,C-329-23,Follicular neoplasm,4,Follicular adenoma,0,1,exist

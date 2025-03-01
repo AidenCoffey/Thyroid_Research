@@ -1,0 +1,1308 @@
+Patient #,FNA biopsy,Surgery diagnosis,Surgery diagnosis in number,fold_0,fold_1,fold_2,fold_3,fold_4,image_path
+1,Malignant,Anaplastic carcinoma,1.0,train,train,train,train,test,TAN\001\IMG_20220623_134910.jpg
+1,Malignant,Anaplastic carcinoma,1.0,train,train,train,train,test,TAN\001\IMG_20220623_134915.jpg
+1,Malignant,Anaplastic carcinoma,1.0,train,train,train,train,test,TAN\001\IMG_20220623_134921.jpg
+1,Malignant,Anaplastic carcinoma,1.0,train,train,train,train,test,TAN\001\IMG_20220623_135706.jpg
+1,Malignant,Anaplastic carcinoma,1.0,train,train,train,train,test,TAN\001\IMG_20220623_140029.jpg
+1,Malignant,Anaplastic carcinoma,1.0,train,train,train,train,test,TAN\001\IMG_20220623_140124.jpg
+1,Malignant,Anaplastic carcinoma,1.0,train,train,train,train,test,TAN\001\IMG_20220623_140406.jpg
+1,Malignant,Anaplastic carcinoma,1.0,train,train,train,train,test,TAN\001\IMG_20220623_140415.jpg
+1,Malignant,Anaplastic carcinoma,1.0,train,train,train,train,test,TAN\001\IMG_20220623_140900.jpg
+1,Malignant,Anaplastic carcinoma,1.0,train,train,train,train,test,TAN\001\IMG_20220623_140916.jpg
+1,Malignant,Anaplastic carcinoma,1.0,train,train,train,train,test,TAN\001\IMG_20220623_141001.jpg
+1,Malignant,Anaplastic carcinoma,1.0,train,train,train,train,test,TAN\001\IMG_20220623_141241.jpg
+1,Malignant,Anaplastic carcinoma,1.0,train,train,train,train,test,TAN\001\IMG_20220623_141314.jpg
+1,Malignant,Anaplastic carcinoma,1.0,train,train,train,train,test,TAN\001\IMG_20220623_141335.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\1661949595105.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_20220908_125052.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_20220908_125221.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_20220908_125430.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_20220908_125543.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_20220908_131904.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_20220908_133033.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_20220908_133053.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_20220908_133111.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_20220908_133153.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_20220908_133243.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_20220908_133312.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_20220908_133339.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_20220908_133440.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_220625133611406.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_220625133650726.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_220625133813345.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_220625134109609.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_220625134703057.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_220625134758987.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_220625134935250.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_220625135447716.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_220625135729827.jpg
+2,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\002\IMG_220625135754449.jpg
+3,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\003\IMG_220625141123425.jpg
+3,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\003\IMG_220625142021107.jpg
+3,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\003\IMG_220625142105372.jpg
+3,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\003\IMG_220625142736210.jpg
+3,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\003\IMG_220625142813398.jpg
+3,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\003\IMG_220625143000535.jpg
+3,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\003\IMG_220625143041452.jpg
+3,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\003\IMG_220625143206467.jpg
+3,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\003\IMG_220625143322761.jpg
+3,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\003\IMG_220625143510986.jpg
+3,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\003\IMG_220625143625944.jpg
+3,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\003\IMG_220625143726165.jpg
+3,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\003\IMG_220625143802181.jpg
+3,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\003\IMG_220625143856628.jpg
+4,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\004\IMG_20220623_140029.jpg
+4,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\004\IMG_220625145725862.jpg
+4,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\004\IMG_220625150140545.jpg
+4,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\004\IMG_220625150431768.jpg
+4,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\004\IMG_220625150605031.jpg
+4,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\004\IMG_220625150832377.jpg
+4,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\004\IMG_220625150859706.jpg
+4,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\004\IMG_220625151405037.jpg
+4,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\004\IMG_220625151549528.jpg
+4,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\004\IMG_220625151854572.jpg
+4,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\004\IMG_220625152558735.jpg
+4,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\004\IMG_220625152703175.jpg
+4,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\004\IMG_220625152757460.jpg
+5,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\005\IMG_20220908_125221.jpg
+5,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\005\IMG_20220908_125430.jpg
+5,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\005\IMG_20220908_125543.jpg
+5,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\005\IMG_20220908_125632.jpg
+6,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\006\IMG_20221005_112243.jpg
+6,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\006\IMG_20221005_112318.jpg
+6,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\006\IMG_20221005_112424.jpg
+6,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\006\IMG_20221005_112452.jpg
+6,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\006\IMG_20221005_112504.jpg
+6,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\006\IMG_20221005_112519.jpg
+6,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\006\IMG_20221005_112544.jpg
+6,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\006\IMG_20221005_112618.jpg
+6,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\006\IMG_20221005_112741.jpg
+6,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\006\IMG_20221005_112834.jpg
+6,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\006\IMG_20221005_112852.jpg
+7,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\007\IMG_20221005_113821.jpg
+7,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\007\IMG_20221005_113908.jpg
+7,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\007\IMG_20221005_114105.jpg
+7,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\007\IMG_20221005_114120.jpg
+7,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\007\IMG_20221005_114128.jpg
+7,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\007\IMG_20221005_114200.jpg
+7,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\007\IMG_20221005_114258.jpg
+7,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\007\IMG_20221005_114340.jpg
+7,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\007\IMG_20221005_114349.jpg
+8,Suspicious for Follicular neoplasim,Follicular adenoma,0.0,train,train,train,test,train,TAN\008\IMG_221005115132356.jpg
+8,Suspicious for Follicular neoplasim,Follicular adenoma,0.0,train,train,train,test,train,TAN\008\IMG_221005115700853.jpg
+8,Suspicious for Follicular neoplasim,Follicular adenoma,0.0,train,train,train,test,train,TAN\008\IMG_221005120158018.jpg
+8,Suspicious for Follicular neoplasim,Follicular adenoma,0.0,train,train,train,test,train,TAN\008\IMG_221005120721758.jpg
+8,Suspicious for Follicular neoplasim,Follicular adenoma,0.0,train,train,train,test,train,TAN\008\IMG_221005120852887.jpg
+8,Suspicious for Follicular neoplasim,Follicular adenoma,0.0,train,train,train,test,train,TAN\008\IMG_221005121130406.jpg
+8,Suspicious for Follicular neoplasim,Follicular adenoma,0.0,train,train,train,test,train,TAN\008\IMG_221005121206331.jpg
+9,Neoplams hurthle,Goitre,0.0,train,train,test,train,train,TAN\009\IMG_221005121435098.jpg
+9,Neoplams hurthle,Goitre,0.0,train,train,test,train,train,TAN\009\IMG_221005121927932.jpg
+9,Neoplams hurthle,Goitre,0.0,train,train,test,train,train,TAN\009\IMG_221005122053242.jpg
+9,Neoplams hurthle,Goitre,0.0,train,train,test,train,train,TAN\009\IMG_221005122121644.jpg
+9,Neoplams hurthle,Goitre,0.0,train,train,test,train,train,TAN\009\IMG_221005122219310.jpg
+9,Neoplams hurthle,Goitre,0.0,train,train,test,train,train,TAN\009\IMG_221005122338660.jpg
+9,Neoplams hurthle,Goitre,0.0,train,train,test,train,train,TAN\009\IMG_221005122442651.jpg
+9,Neoplams hurthle,Goitre,0.0,train,train,test,train,train,TAN\009\IMG_221005122534626.jpg
+9,Neoplams hurthle,Goitre,0.0,train,train,test,train,train,TAN\009\IMG_221005122819885.jpg
+9,Neoplams hurthle,Goitre,0.0,train,train,test,train,train,TAN\009\IMG_221005122909849.jpg
+9,Neoplams hurthle,Goitre,0.0,train,train,test,train,train,TAN\009\IMG_221005123002071.jpg
+9,Neoplams hurthle,Goitre,0.0,train,train,test,train,train,TAN\009\IMG_221005123053329.jpg
+10,Malignancy,"Carcinoma, NOS",1.0,test,train,train,train,train,TAN\010\IMG_221005131728548.jpg
+10,Malignancy,"Carcinoma, NOS",1.0,test,train,train,train,train,TAN\010\IMG_221005131939096.jpg
+10,Malignancy,"Carcinoma, NOS",1.0,test,train,train,train,train,TAN\010\IMG_221005132339359.jpg
+10,Malignancy,"Carcinoma, NOS",1.0,test,train,train,train,train,TAN\010\IMG_221005132445880.jpg
+10,Malignancy,"Carcinoma, NOS",1.0,test,train,train,train,train,TAN\010\IMG_221005132549920.jpg
+10,Malignancy,"Carcinoma, NOS",1.0,test,train,train,train,train,TAN\010\IMG_221005133325573.jpg
+10,Malignancy,"Carcinoma, NOS",1.0,test,train,train,train,train,TAN\010\IMG_221005133437740.jpg
+10,Malignancy,"Carcinoma, NOS",1.0,test,train,train,train,train,TAN\010\IMG_221005133600474.jpg
+10,Malignancy,"Carcinoma, NOS",1.0,test,train,train,train,train,TAN\010\IMG_221005133800493.jpg
+10,Malignancy,"Carcinoma, NOS",1.0,test,train,train,train,train,TAN\010\IMG_221005133834704.jpg
+10,Malignancy,"Carcinoma, NOS",1.0,test,train,train,train,train,TAN\010\IMG_221005133903601.jpg
+11,Benign thyroid nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\011\IMG_221006092000308.jpg
+11,Benign thyroid nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\011\IMG_221006092456734.jpg
+11,Benign thyroid nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\011\IMG_221006092546099.jpg
+11,Benign thyroid nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\011\IMG_221006092624232.jpg
+11,Benign thyroid nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\011\IMG_221006092905406.jpg
+11,Benign thyroid nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\011\IMG_221006093004336.jpg
+11,Benign thyroid nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\011\IMG_221006093048690.jpg
+11,Benign thyroid nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\011\IMG_221006093157802.jpg
+11,Benign thyroid nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\011\IMG_221006093358552.jpg
+11,Benign thyroid nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\011\IMG_221006093425460.jpg
+12,Goitre,Goitre,0.0,test,train,train,train,train,TAN\012\IMG_221006094039832.jpg
+12,Goitre,Goitre,0.0,test,train,train,train,train,TAN\012\IMG_221006094138698.jpg
+12,Goitre,Goitre,0.0,test,train,train,train,train,TAN\012\IMG_221006094206935.jpg
+12,Goitre,Goitre,0.0,test,train,train,train,train,TAN\012\IMG_221006094441168.jpg
+12,Goitre,Goitre,0.0,test,train,train,train,train,TAN\012\IMG_221006094556566.jpg
+12,Goitre,Goitre,0.0,test,train,train,train,train,TAN\012\IMG_221006094657612.jpg
+12,Goitre,Goitre,0.0,test,train,train,train,train,TAN\012\IMG_221006095352691.jpg
+12,Goitre,Goitre,0.0,test,train,train,train,train,TAN\012\IMG_221006095413376.jpg
+13,Benign,Adenomatous goitre,0.0,train,train,train,test,train,TAN\013\IMG_221006095641362.jpg
+13,Benign,Adenomatous goitre,0.0,train,train,train,test,train,TAN\013\IMG_221006102155610.jpg
+13,Benign,Adenomatous goitre,0.0,train,train,train,test,train,TAN\013\IMG_221006102244642.jpg
+13,Benign,Adenomatous goitre,0.0,train,train,train,test,train,TAN\013\IMG_221006102339151.jpg
+13,Benign,Adenomatous goitre,0.0,train,train,train,test,train,TAN\013\IMG_221006102438527.jpg
+13,Benign,Adenomatous goitre,0.0,train,train,train,test,train,TAN\013\IMG_221006102605799.jpg
+13,Benign,Adenomatous goitre,0.0,train,train,train,test,train,TAN\013\IMG_221006102634001.jpg
+13,Benign,Adenomatous goitre,0.0,train,train,train,test,train,TAN\013\IMG_221006102729310.jpg
+13,Benign,Adenomatous goitre,0.0,train,train,train,test,train,TAN\013\IMG_221006102801059.jpg
+13,Benign,Adenomatous goitre,0.0,train,train,train,test,train,TAN\013\IMG_221006102822626.jpg
+13,Benign,Adenomatous goitre,0.0,train,train,train,test,train,TAN\013\IMG_221006103056557.jpg
+13,Benign,Adenomatous goitre,0.0,train,train,train,test,train,TAN\013\IMG_221006103125426.jpg
+13,Benign,Adenomatous goitre,0.0,train,train,train,test,train,TAN\013\IMG_221006103225544.jpg
+14,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\014\IMG_221006113239381.jpg
+14,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\014\IMG_221006113458274.jpg
+14,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\014\IMG_221006113514350.jpg
+14,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\014\IMG_221006113544221.jpg
+14,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\014\IMG_221006113632001.jpg
+14,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\014\IMG_221006113732988.jpg
+14,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\014\IMG_221006113754747.jpg
+14,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\014\IMG_221006113833108.jpg
+14,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\014\IMG_221006113944682.jpg
+14,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\014\IMG_221006114053311.jpg
+14,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\014\IMG_221006114144759.jpg
+15,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\015\IMG_221006114439136.jpg
+15,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\015\IMG_221006114531821.jpg
+15,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\015\IMG_221006114935223.jpg
+15,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\015\IMG_221006114957135.jpg
+15,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\015\IMG_221006115014701.jpg
+15,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\015\IMG_221006115057959.jpg
+15,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\015\IMG_221006115644797.jpg
+15,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\015\IMG_221006115716607.jpg
+15,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\015\IMG_221006120155464.jpg
+15,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\015\IMG_221006120342178.jpg
+16,Thyroidetis,Thyroid carcinoma,1.0,train,train,test,train,train,TAN\016\IMG_221006124538051.jpg
+16,Thyroidetis,Thyroid carcinoma,1.0,train,train,test,train,train,TAN\016\IMG_221006124550109.jpg
+16,Thyroidetis,Thyroid carcinoma,1.0,train,train,test,train,train,TAN\016\IMG_221006124650422.jpg
+16,Thyroidetis,Thyroid carcinoma,1.0,train,train,test,train,train,TAN\016\IMG_221006124737941.jpg
+16,Thyroidetis,Thyroid carcinoma,1.0,train,train,test,train,train,TAN\016\IMG_221006124904128.jpg
+16,Thyroidetis,Thyroid carcinoma,1.0,train,train,test,train,train,TAN\016\IMG_221006124932579.jpg
+16,Thyroidetis,Thyroid carcinoma,1.0,train,train,test,train,train,TAN\016\IMG_221006124954732.jpg
+16,Thyroidetis,Thyroid carcinoma,1.0,train,train,test,train,train,TAN\016\IMG_221006125025127.jpg
+16,Thyroidetis,Thyroid carcinoma,1.0,train,train,test,train,train,TAN\016\IMG_221006125334748.jpg
+16,Thyroidetis,Thyroid carcinoma,1.0,train,train,test,train,train,TAN\016\IMG_221006125424120.jpg
+16,Thyroidetis,Thyroid carcinoma,1.0,train,train,test,train,train,TAN\016\IMG_221006125520155.jpg
+16,Thyroidetis,Thyroid carcinoma,1.0,train,train,test,train,train,TAN\016\IMG_221006125622180.jpg
+17,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\017\IMG_221007083340063.jpg
+17,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\017\IMG_221007083533257.jpg
+17,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\017\IMG_221007083732100.jpg
+17,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\017\IMG_221007084101573.jpg
+17,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\017\IMG_221007084539111.jpg
+17,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\017\IMG_221007084615393.jpg
+17,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\017\IMG_221007084634010.jpg
+17,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\017\IMG_221007084729148.jpg
+17,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\017\IMG_221007084745883.jpg
+17,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\017\IMG_221007084803893.jpg
+17,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\017\IMG_221007084823326.jpg
+17,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\017\IMG_221007084851272.jpg
+17,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\017\IMG_221007084916616.jpg
+17,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\017\IMG_221007084937311.jpg
+18,ASCUS,Follicular adenoma,0.0,train,test,train,train,train,TAN\018\IMG_221007085402497.jpg
+18,ASCUS,Follicular adenoma,0.0,train,test,train,train,train,TAN\018\IMG_221007085717558.jpg
+18,ASCUS,Follicular adenoma,0.0,train,test,train,train,train,TAN\018\IMG_221007085746403.jpg
+18,ASCUS,Follicular adenoma,0.0,train,test,train,train,train,TAN\018\IMG_221007085836369.jpg
+18,ASCUS,Follicular adenoma,0.0,train,test,train,train,train,TAN\018\IMG_221007090208395.jpg
+18,ASCUS,Follicular adenoma,0.0,train,test,train,train,train,TAN\018\IMG_221007090441522.jpg
+18,ASCUS,Follicular adenoma,0.0,train,test,train,train,train,TAN\018\IMG_221007090557221.jpg
+19,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\019\IMG_221007091847976.jpg
+19,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\019\IMG_221007092045460.jpg
+19,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\019\IMG_221007092110961.jpg
+19,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\019\IMG_221007092210400.jpg
+19,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\019\IMG_221007092416988.jpg
+19,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\019\IMG_221007092446678.jpg
+19,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\019\IMG_221007092541965.jpg
+19,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\019\IMG_221007092633818.jpg
+19,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\019\IMG_221007092649971.jpg
+19,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\019\IMG_221007092759636.jpg
+19,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\019\IMG_221007092823618.jpg
+20,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\020\IMG_221007093122209.jpg
+20,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\020\IMG_221007093157239.jpg
+20,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\020\IMG_221007093236687.jpg
+20,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\020\IMG_221007093319824.jpg
+20,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\020\IMG_221007093403512.jpg
+20,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\020\IMG_221007093513122.jpg
+20,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\020\IMG_221007093657798.jpg
+20,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\020\IMG_221007093724462.jpg
+20,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\020\IMG_221007093810636.jpg
+20,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\020\IMG_221007093922016.jpg
+20,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\020\IMG_221007094034272.jpg
+20,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\020\IMG_221007094121325.jpg
+21,Follicular neoplasm,Multinodular goire with cystic changes,0.0,train,test,train,train,train,TAN\021\IMG_221015110751673.jpg
+21,Follicular neoplasm,Multinodular goire with cystic changes,0.0,train,test,train,train,train,TAN\021\IMG_221015111212983.jpg
+21,Follicular neoplasm,Multinodular goire with cystic changes,0.0,train,test,train,train,train,TAN\021\IMG_221015111226756.jpg
+21,Follicular neoplasm,Multinodular goire with cystic changes,0.0,train,test,train,train,train,TAN\021\IMG_221015111359153.jpg
+21,Follicular neoplasm,Multinodular goire with cystic changes,0.0,train,test,train,train,train,TAN\021\IMG_221015111535505.jpg
+21,Follicular neoplasm,Multinodular goire with cystic changes,0.0,train,test,train,train,train,TAN\021\IMG_221015111700553.jpg
+21,Follicular neoplasm,Multinodular goire with cystic changes,0.0,train,test,train,train,train,TAN\021\IMG_221015111801658.jpg
+21,Follicular neoplasm,Multinodular goire with cystic changes,0.0,train,test,train,train,train,TAN\021\IMG_221015111840913.jpg
+21,Follicular neoplasm,Multinodular goire with cystic changes,0.0,train,test,train,train,train,TAN\021\IMG_221015111901057.jpg
+21,Follicular neoplasm,Multinodular goire with cystic changes,0.0,train,test,train,train,train,TAN\021\IMG_221015112035562.jpg
+21,Follicular neoplasm,Multinodular goire with cystic changes,0.0,train,test,train,train,train,TAN\021\IMG_221015112100195.jpg
+22,Goitre,Goitre,0.0,train,train,test,train,train,TAN\022\IMG_221015112247568.jpg
+22,Goitre,Goitre,0.0,train,train,test,train,train,TAN\022\IMG_221015113113871.jpg
+22,Goitre,Goitre,0.0,train,train,test,train,train,TAN\022\IMG_221015113139396.jpg
+22,Goitre,Goitre,0.0,train,train,test,train,train,TAN\022\IMG_221015113214116.jpg
+22,Goitre,Goitre,0.0,train,train,test,train,train,TAN\022\IMG_221015113239921.jpg
+22,Goitre,Goitre,0.0,train,train,test,train,train,TAN\022\IMG_221015113301252.jpg
+22,Goitre,Goitre,0.0,train,train,test,train,train,TAN\022\IMG_221015113341510.jpg
+22,Goitre,Goitre,0.0,train,train,test,train,train,TAN\022\IMG_221015113400949.jpg
+22,Goitre,Goitre,0.0,train,train,test,train,train,TAN\022\IMG_221015113503179.jpg
+22,Goitre,Goitre,0.0,train,train,test,train,train,TAN\022\IMG_221015113532758.jpg
+22,Goitre,Goitre,0.0,train,train,test,train,train,TAN\022\IMG_221015113603573.jpg
+23,Goitre,Goitre,0.0,train,train,train,train,test,TAN\023\IMG_221015113812266.jpg
+23,Goitre,Goitre,0.0,train,train,train,train,test,TAN\023\IMG_221015113918830.jpg
+23,Goitre,Goitre,0.0,train,train,train,train,test,TAN\023\IMG_221015114004265.jpg
+23,Goitre,Goitre,0.0,train,train,train,train,test,TAN\023\IMG_221015114036350.jpg
+23,Goitre,Goitre,0.0,train,train,train,train,test,TAN\023\IMG_221015114058308.jpg
+23,Goitre,Goitre,0.0,train,train,train,train,test,TAN\023\IMG_221015114118160.jpg
+23,Goitre,Goitre,0.0,train,train,train,train,test,TAN\023\IMG_221015114136075.jpg
+23,Goitre,Goitre,0.0,train,train,train,train,test,TAN\023\IMG_221015114246556.jpg
+23,Goitre,Goitre,0.0,train,train,train,train,test,TAN\023\IMG_221015115245453.jpg
+23,Goitre,Goitre,0.0,train,train,train,train,test,TAN\023\IMG_221015115308762.jpg
+24,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\024\IMG_221015115453104.jpg
+24,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\024\IMG_221015115524781.jpg
+24,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\024\IMG_221015115539774.jpg
+24,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\024\IMG_221015115825938.jpg
+24,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\024\IMG_221015115843528.jpg
+24,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\024\IMG_221015115912298.jpg
+24,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\024\IMG_221015115943944.jpg
+24,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\024\IMG_221015120003480.jpg
+24,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\024\IMG_221015120027410.jpg
+24,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\024\IMG_221015120048991.jpg
+24,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\024\IMG_221015120154368.jpg
+24,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\024\IMG_221015120213508.jpg
+24,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\024\IMG_221015120230054.jpg
+24,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\024\IMG_221015120254667.jpg
+25,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\025\IMG_221015120437643.jpg
+25,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\025\IMG_221015120649519.jpg
+25,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\025\IMG_221015120704186.jpg
+25,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\025\IMG_221015120719093.jpg
+25,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\025\IMG_221015120732913.jpg
+25,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\025\IMG_221015120752341.jpg
+25,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\025\IMG_221015120930627.jpg
+25,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\025\IMG_221015120953757.jpg
+25,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\025\IMG_221015121048222.jpg
+25,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\025\IMG_221015121128513.jpg
+25,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\025\IMG_221015121146984.jpg
+25,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\025\IMG_221015121158965.jpg
+26,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\026\IMG_221015121255558.jpg
+26,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\026\IMG_221015121507443.jpg
+26,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\026\IMG_221015121527261.jpg
+26,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\026\IMG_221015121542059.jpg
+26,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\026\IMG_221015121609593.jpg
+26,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\026\IMG_221015121638490.jpg
+26,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\026\IMG_221015121652186.jpg
+26,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\026\IMG_221015121706093.jpg
+26,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\026\IMG_221015121726388.jpg
+26,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\026\IMG_221015121756268.jpg
+26,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\026\IMG_221015121811077.jpg
+26,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\026\IMG_221015121830540.jpg
+26,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\026\IMG_221015121849312.jpg
+26,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\026\IMG_221015121906329.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122020170.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122035779.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122047088.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122058395.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122120768.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122206402.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122245126.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122344084.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122357222.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122413835.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122428971.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122444761.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122458783.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122513311.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122524797.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122542614.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122613269.jpg
+27,Lymph node(DLBCL),No biopsy,,train,test,train,train,train,TAN\027\IMG_221015122634161.jpg
+28,Malignant lesion,No biopsy,,train,train,train,test,train,TAN\028\IMG_221015122732452.jpg
+28,Malignant lesion,No biopsy,,train,train,train,test,train,TAN\028\IMG_221015122843321.jpg
+28,Malignant lesion,No biopsy,,train,train,train,test,train,TAN\028\IMG_221015122907462.jpg
+28,Malignant lesion,No biopsy,,train,train,train,test,train,TAN\028\IMG_221015122920861.jpg
+28,Malignant lesion,No biopsy,,train,train,train,test,train,TAN\028\IMG_221015122930407.jpg
+28,Malignant lesion,No biopsy,,train,train,train,test,train,TAN\028\IMG_221015122938971.jpg
+28,Malignant lesion,No biopsy,,train,train,train,test,train,TAN\028\IMG_221015122950393.jpg
+28,Malignant lesion,No biopsy,,train,train,train,test,train,TAN\028\IMG_221015123009703.jpg
+28,Malignant lesion,No biopsy,,train,train,train,test,train,TAN\028\IMG_221015123105699.jpg
+28,Malignant lesion,No biopsy,,train,train,train,test,train,TAN\028\IMG_221015124017532.jpg
+28,Malignant lesion,No biopsy,,train,train,train,test,train,TAN\028\IMG_221015124052111.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124216796.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124336139.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124352090.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124413163.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124432539.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124448100.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124511424.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124529338.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124544658.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124618319.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124636009.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124652247.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124708949.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124722861.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124803926.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124844340.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124910461.jpg
+29,Follicular neoplasm,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\029\IMG_221015124938485.jpg
+30,Granulomatous inflammation,Bening nodule,0.0,train,train,train,train,test,TAN\030\IMG_221015125045988.jpg
+30,Granulomatous inflammation,Bening nodule,0.0,train,train,train,train,test,TAN\030\IMG_221015125154468.jpg
+30,Granulomatous inflammation,Bening nodule,0.0,train,train,train,train,test,TAN\030\IMG_221015125210093.jpg
+30,Granulomatous inflammation,Bening nodule,0.0,train,train,train,train,test,TAN\030\IMG_221015125242768.jpg
+30,Granulomatous inflammation,Bening nodule,0.0,train,train,train,train,test,TAN\030\IMG_221015125301742.jpg
+30,Granulomatous inflammation,Bening nodule,0.0,train,train,train,train,test,TAN\030\IMG_221015125320245.jpg
+30,Granulomatous inflammation,Bening nodule,0.0,train,train,train,train,test,TAN\030\IMG_221015125353042.jpg
+30,Granulomatous inflammation,Bening nodule,0.0,train,train,train,train,test,TAN\030\IMG_221015125406407.jpg
+30,Granulomatous inflammation,Bening nodule,0.0,train,train,train,train,test,TAN\030\IMG_221015125419008.jpg
+30,Granulomatous inflammation,Bening nodule,0.0,train,train,train,train,test,TAN\030\IMG_221015125438944.jpg
+30,Granulomatous inflammation,Bening nodule,0.0,train,train,train,train,test,TAN\030\IMG_221015125459438.jpg
+30,Granulomatous inflammation,Bening nodule,0.0,train,train,train,train,test,TAN\030\IMG_221015125537706.jpg
+30,Granulomatous inflammation,Bening nodule,0.0,train,train,train,train,test,TAN\030\IMG_221015125613799.jpg
+30,Granulomatous inflammation,Bening nodule,0.0,train,train,train,train,test,TAN\030\IMG_221015125637151.jpg
+30,Granulomatous inflammation,Bening nodule,0.0,train,train,train,train,test,TAN\030\IMG_221015125725992.jpg
+31,Carcinoma,Squamous cell carcinoma; metastatic?,1.0,test,train,train,train,train,TAN\031\IMG_221015125945918.jpg
+31,Carcinoma,Squamous cell carcinoma; metastatic?,1.0,test,train,train,train,train,TAN\031\IMG_221015130054870.jpg
+31,Carcinoma,Squamous cell carcinoma; metastatic?,1.0,test,train,train,train,train,TAN\031\IMG_221015130124434.jpg
+31,Carcinoma,Squamous cell carcinoma; metastatic?,1.0,test,train,train,train,train,TAN\031\IMG_221015130144551.jpg
+31,Carcinoma,Squamous cell carcinoma; metastatic?,1.0,test,train,train,train,train,TAN\031\IMG_221015130156278.jpg
+31,Carcinoma,Squamous cell carcinoma; metastatic?,1.0,test,train,train,train,train,TAN\031\IMG_221015130208963.jpg
+31,Carcinoma,Squamous cell carcinoma; metastatic?,1.0,test,train,train,train,train,TAN\031\IMG_221015130227701.jpg
+31,Carcinoma,Squamous cell carcinoma; metastatic?,1.0,test,train,train,train,train,TAN\031\IMG_221015130303044.jpg
+31,Carcinoma,Squamous cell carcinoma; metastatic?,1.0,test,train,train,train,train,TAN\031\IMG_221015130326111.jpg
+32,ASCUS,Follicular adenoma,0.0,test,train,train,train,train,TAN\032\IMG_221017124818115.jpg
+32,ASCUS,Follicular adenoma,0.0,test,train,train,train,train,TAN\032\IMG_221017124842259.jpg
+32,ASCUS,Follicular adenoma,0.0,test,train,train,train,train,TAN\032\IMG_221017124902450.jpg
+32,ASCUS,Follicular adenoma,0.0,test,train,train,train,train,TAN\032\IMG_221017124916373.jpg
+32,ASCUS,Follicular adenoma,0.0,test,train,train,train,train,TAN\032\IMG_221017125213987.jpg
+32,ASCUS,Follicular adenoma,0.0,test,train,train,train,train,TAN\032\IMG_221017125313690.jpg
+32,ASCUS,Follicular adenoma,0.0,test,train,train,train,train,TAN\032\IMG_221017125335521.jpg
+32,ASCUS,Follicular adenoma,0.0,test,train,train,train,train,TAN\032\IMG_221017125404244.jpg
+32,ASCUS,Follicular adenoma,0.0,test,train,train,train,train,TAN\032\IMG_221017125501832.jpg
+32,ASCUS,Follicular adenoma,0.0,test,train,train,train,train,TAN\032\IMG_221017125521076.jpg
+32,ASCUS,Follicular adenoma,0.0,test,train,train,train,train,TAN\032\IMG_221017125540749.jpg
+33,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\033\IMG_221017125920267.jpg
+33,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\033\IMG_221017130038262.jpg
+33,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\033\IMG_221017130151401.jpg
+33,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\033\IMG_221017130208544.jpg
+33,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\033\IMG_221017130325951.jpg
+33,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\033\IMG_221017130445233.jpg
+33,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\033\IMG_221017130510887.jpg
+34,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\034\IMG_221017130812211.jpg
+34,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\034\IMG_221017131153933.jpg
+34,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\034\IMG_221017131238295.jpg
+34,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\034\IMG_221017131302647.jpg
+34,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\034\IMG_221017131541412.jpg
+34,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\034\IMG_221017131559510.jpg
+34,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\034\IMG_221017131624030.jpg
+34,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\034\IMG_221017131924494.jpg
+34,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\034\IMG_221017131937763.jpg
+34,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\034\IMG_221017132001838.jpg
+34,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\034\IMG_221017132027660.jpg
+35,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\035\IMG_221017132310159.jpg
+35,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\035\IMG_221017132652765.jpg
+35,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\035\IMG_221017132711710.jpg
+35,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\035\IMG_221017132732247.jpg
+35,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\035\IMG_221017132755948.jpg
+35,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\035\IMG_221017132917423.jpg
+35,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\035\IMG_221017133028315.jpg
+35,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\035\IMG_221017133106331.jpg
+35,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\035\IMG_221017133124489.jpg
+35,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\035\IMG_221017133139996.jpg
+35,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\035\IMG_221017133249462.jpg
+36,Goitre,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\036\IMG_221017133521015.jpg
+36,Goitre,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\036\IMG_221017134241688.jpg
+36,Goitre,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\036\IMG_221017134259547.jpg
+36,Goitre,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\036\IMG_221017134325988.jpg
+36,Goitre,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\036\IMG_221017134358447.jpg
+36,Goitre,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\036\IMG_221017134420504.jpg
+36,Goitre,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\036\IMG_221017134448761.jpg
+36,Goitre,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\036\IMG_221017134514025.jpg
+36,Goitre,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\036\IMG_221017134627157.jpg
+36,Goitre,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\036\IMG_221017134654150.jpg
+36,Goitre,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\036\IMG_221017134745920.jpg
+36,Goitre,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\036\IMG_221017134807596.jpg
+36,Goitre,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\036\IMG_221017134827609.jpg
+37,Malignancy,Follicular adenoma,0.0,train,test,train,train,train,TAN\037\IMG_221017135059482.jpg
+37,Malignancy,Follicular adenoma,0.0,train,test,train,train,train,TAN\037\IMG_221017135440912.jpg
+37,Malignancy,Follicular adenoma,0.0,train,test,train,train,train,TAN\037\IMG_221017135455247.jpg
+37,Malignancy,Follicular adenoma,0.0,train,test,train,train,train,TAN\037\IMG_221017135529091.jpg
+37,Malignancy,Follicular adenoma,0.0,train,test,train,train,train,TAN\037\IMG_221017135554410.jpg
+37,Malignancy,Follicular adenoma,0.0,train,test,train,train,train,TAN\037\IMG_221017135608271.jpg
+37,Malignancy,Follicular adenoma,0.0,train,test,train,train,train,TAN\037\IMG_221017135625394.jpg
+37,Malignancy,Follicular adenoma,0.0,train,test,train,train,train,TAN\037\IMG_221017135820806.jpg
+37,Malignancy,Follicular adenoma,0.0,train,test,train,train,train,TAN\037\IMG_221017135837715.jpg
+37,Malignancy,Follicular adenoma,0.0,train,test,train,train,train,TAN\037\IMG_221017135910641.jpg
+38,Benign,Hyperplastic goitre,0.0,train,train,train,train,test,TAN\038\1672998538477.jpg
+38,Benign,Hyperplastic goitre,0.0,train,train,train,train,test,TAN\038\1672998538482.jpg
+38,Benign,Hyperplastic goitre,0.0,train,train,train,train,test,TAN\038\1672998538488.jpg
+38,Benign,Hyperplastic goitre,0.0,train,train,train,train,test,TAN\038\1672998538495.jpg
+38,Benign,Hyperplastic goitre,0.0,train,train,train,train,test,TAN\038\1672998538500.jpg
+38,Benign,Hyperplastic goitre,0.0,train,train,train,train,test,TAN\038\1672998538506.jpg
+38,Benign,Hyperplastic goitre,0.0,train,train,train,train,test,TAN\038\1672998538513.jpg
+38,Benign,Hyperplastic goitre,0.0,train,train,train,train,test,TAN\038\1672998538519.jpg
+38,Benign,Hyperplastic goitre,0.0,train,train,train,train,test,TAN\038\1672998538525.jpg
+38,Benign,Hyperplastic goitre,0.0,train,train,train,train,test,TAN\038\1672998538530.jpg
+38,Benign,Hyperplastic goitre,0.0,train,train,train,train,test,TAN\038\1672998538536.jpg
+38,Benign,Hyperplastic goitre,0.0,train,train,train,train,test,TAN\038\1672998538541.jpg
+38,Benign,Hyperplastic goitre,0.0,train,train,train,train,test,TAN\038\1672998538547.jpg
+38,Benign,Hyperplastic goitre,0.0,train,train,train,train,test,TAN\038\1672998538555.jpg
+38,Benign,Hyperplastic goitre,0.0,train,train,train,train,test,TAN\038\1672998538561.jpg
+38,Benign,Hyperplastic goitre,0.0,train,train,train,train,test,TAN\038\1672998538567.jpg
+39,Benign nodule,Goitre,0.0,train,train,train,test,train,TAN\039\1673000449048.jpg
+39,Benign nodule,Goitre,0.0,train,train,train,test,train,TAN\039\1673000449052.jpg
+39,Benign nodule,Goitre,0.0,train,train,train,test,train,TAN\039\1673000449057.jpg
+39,Benign nodule,Goitre,0.0,train,train,train,test,train,TAN\039\1673000449061.jpg
+39,Benign nodule,Goitre,0.0,train,train,train,test,train,TAN\039\1673000449065.jpg
+39,Benign nodule,Goitre,0.0,train,train,train,test,train,TAN\039\1673000449069.jpg
+39,Benign nodule,Goitre,0.0,train,train,train,test,train,TAN\039\1673000449074.jpg
+39,Benign nodule,Goitre,0.0,train,train,train,test,train,TAN\039\1673000449081.jpg
+39,Benign nodule,Goitre,0.0,train,train,train,test,train,TAN\039\1673000449085.jpg
+39,Benign nodule,Goitre,0.0,train,train,train,test,train,TAN\039\1673000449089.jpg
+39,Benign nodule,Goitre,0.0,train,train,train,test,train,TAN\039\1673000449094.jpg
+39,Benign nodule,Goitre,0.0,train,train,train,test,train,TAN\039\1673000449099.jpg
+39,Benign nodule,Goitre,0.0,train,train,train,test,train,TAN\039\1673000449103.jpg
+39,Benign nodule,Goitre,0.0,train,train,train,test,train,TAN\039\1673000449108.jpg
+39,Benign nodule,Goitre,0.0,train,train,train,test,train,TAN\039\1673000449112.jpg
+39,Benign nodule,Goitre,0.0,train,train,train,test,train,TAN\039\1673000449116.jpg
+40,Benign goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\040\1672995750363.jpg
+40,Benign goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\040\1672995750369.jpg
+40,Benign goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\040\1672995750374.jpg
+40,Benign goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\040\1672995750380.jpg
+40,Benign goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\040\1672995750385.jpg
+40,Benign goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\040\1672995750392.jpg
+40,Benign goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\040\1672995750397.jpg
+40,Benign goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\040\1672995750402.jpg
+40,Benign goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\040\1672995750407.jpg
+40,Benign goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\040\1672995750412.jpg
+40,Benign goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\040\1672995750417.jpg
+41,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\041\1673001242495.jpg
+41,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\041\1673001242503.jpg
+41,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\041\1673001242509.jpg
+41,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\041\1673001242515.jpg
+41,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\041\1673001242521.jpg
+41,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\041\1673001242526.jpg
+41,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\041\1673001242533.jpg
+41,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\041\1673001242540.jpg
+42,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\042\1672999521413.jpg
+42,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\042\1672999521418.jpg
+42,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\042\1672999521427.jpg
+42,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\042\1672999521433.jpg
+42,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\042\1672999521441.jpg
+42,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\042\1672999521446.jpg
+42,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\042\1672999521451.jpg
+42,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\042\1672999521455.jpg
+43,Benign nodule,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\043\1672997483908.jpg
+43,Benign nodule,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\043\1672997483913.jpg
+43,Benign nodule,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\043\1672997483919.jpg
+43,Benign nodule,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\043\1672997483925.jpg
+43,Benign nodule,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\043\1672997483930.jpg
+43,Benign nodule,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\043\1672997483936.jpg
+44,Goitre nodule,Goitre,0.0,test,train,train,train,train,TAN\044\1672996592533.jpg
+44,Goitre nodule,Goitre,0.0,test,train,train,train,train,TAN\044\1672996592538.jpg
+44,Goitre nodule,Goitre,0.0,test,train,train,train,train,TAN\044\1672996592543.jpg
+44,Goitre nodule,Goitre,0.0,test,train,train,train,train,TAN\044\1672996592548.jpg
+44,Goitre nodule,Goitre,0.0,test,train,train,train,train,TAN\044\1672996592552.jpg
+44,Goitre nodule,Goitre,0.0,test,train,train,train,train,TAN\044\1672996592557.jpg
+44,Goitre nodule,Goitre,0.0,test,train,train,train,train,TAN\044\1672996592562.jpg
+44,Goitre nodule,Goitre,0.0,test,train,train,train,train,TAN\044\1672996592567.jpg
+44,Goitre nodule,Goitre,0.0,test,train,train,train,train,TAN\044\1672996592572.jpg
+44,Goitre nodule,Goitre,0.0,test,train,train,train,train,TAN\044\1672996592578.jpg
+44,Goitre nodule,Goitre,0.0,test,train,train,train,train,TAN\044\1672996592582.jpg
+44,Goitre nodule,Goitre,0.0,test,train,train,train,train,TAN\044\1672996592588.jpg
+44,Goitre nodule,Goitre,0.0,test,train,train,train,train,TAN\044\1672996592593.jpg
+44,Goitre nodule,Goitre,0.0,test,train,train,train,train,TAN\044\1672996592598.jpg
+45,Benign nodule,Goitre,0.0,train,train,test,train,train,TAN\045\1672994795718.jpg
+45,Benign nodule,Goitre,0.0,train,train,test,train,train,TAN\045\1672994795723.jpg
+45,Benign nodule,Goitre,0.0,train,train,test,train,train,TAN\045\1672994795729.jpg
+45,Benign nodule,Goitre,0.0,train,train,test,train,train,TAN\045\1672994795734.jpg
+45,Benign nodule,Goitre,0.0,train,train,test,train,train,TAN\045\1672994795743.jpg
+45,Benign nodule,Goitre,0.0,train,train,test,train,train,TAN\045\1672994795748.jpg
+46,Granulomatous/Benign,Bening nodule,0.0,train,test,train,train,train,TAN\046\1672994060997.jpg
+46,Granulomatous/Benign,Bening nodule,0.0,train,test,train,train,train,TAN\046\1672994061003.jpg
+46,Granulomatous/Benign,Bening nodule,0.0,train,test,train,train,train,TAN\046\1672994061008.jpg
+46,Granulomatous/Benign,Bening nodule,0.0,train,test,train,train,train,TAN\046\1672994061013.jpg
+46,Granulomatous/Benign,Bening nodule,0.0,train,test,train,train,train,TAN\046\1672994061018.jpg
+46,Granulomatous/Benign,Bening nodule,0.0,train,test,train,train,train,TAN\046\1672994061024.jpg
+46,Granulomatous/Benign,Bening nodule,0.0,train,test,train,train,train,TAN\046\1672994061029.jpg
+46,Granulomatous/Benign,Bening nodule,0.0,train,test,train,train,train,TAN\046\1672994061034.jpg
+46,Granulomatous/Benign,Bening nodule,0.0,train,test,train,train,train,TAN\046\1672994061040.jpg
+46,Granulomatous/Benign,Bening nodule,0.0,train,test,train,train,train,TAN\046\1672994061045.jpg
+46,Granulomatous/Benign,Bening nodule,0.0,train,test,train,train,train,TAN\046\1672994061051.jpg
+46,Granulomatous/Benign,Bening nodule,0.0,train,test,train,train,train,TAN\046\1672994061056.jpg
+46,Granulomatous/Benign,Bening nodule,0.0,train,test,train,train,train,TAN\046\1672994061061.jpg
+47,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\047\1672993363489.jpg
+47,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\047\1672993363496.jpg
+47,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\047\1672993363501.jpg
+47,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\047\1672993363506.jpg
+47,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\047\1672993363512.jpg
+47,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\047\1672993363517.jpg
+47,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\047\1672993363523.jpg
+47,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\047\1672993363529.jpg
+47,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\047\1672993363534.jpg
+47,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\047\1672993363539.jpg
+47,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\047\1672993363544.jpg
+48,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\048\IMG_230110091814512.jpg
+48,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\048\IMG_230110091851614.jpg
+48,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\048\IMG_230110091950848.jpg
+48,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\048\IMG_230110092024345.jpg
+48,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\048\IMG_230110092057067.jpg
+48,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\048\IMG_230110092147960.jpg
+48,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\048\IMG_230110092619344.jpg
+48,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\048\IMG_230110092733830.jpg
+49,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\049\IMG_230110114305385.jpg
+49,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\049\IMG_230110114518591.jpg
+49,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\049\IMG_230110114616552.jpg
+49,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\049\IMG_230110115023010.jpg
+49,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\049\IMG_230110115459411.jpg
+50,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\050\IMG_230110115815948.jpg
+50,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\050\IMG_230110115851323.jpg
+50,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\050\IMG_230110115909123.jpg
+50,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\050\IMG_230110115922571.jpg
+50,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\050\IMG_230110115942584.jpg
+50,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\050\IMG_230110120022816.jpg
+50,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\050\IMG_230110120546502.jpg
+50,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\050\IMG_230110120644464.jpg
+50,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\050\IMG_230110120717730.jpg
+50,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\050\IMG_230110120742097.jpg
+51,benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\051\IMG_230110122645939.jpg
+51,benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\051\IMG_230110122701214.jpg
+51,benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\051\IMG_230110122803422.jpg
+51,benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\051\IMG_230110122842054.jpg
+51,benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\051\IMG_230110122929272.jpg
+51,benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\051\IMG_230110123004850.jpg
+51,benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\051\IMG_230110123018736.jpg
+51,benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\051\IMG_230110123030199.jpg
+51,benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\051\IMG_230110123049013.jpg
+51,benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\051\IMG_230110123101734.jpg
+51,benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\051\IMG_230110123125207.jpg
+52,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\052\IMG_230110123818820.jpg
+52,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\052\IMG_230110124101895.jpg
+52,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\052\IMG_230110124125804.jpg
+52,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\052\IMG_230110124146510.jpg
+52,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\052\IMG_230110124203974.jpg
+52,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\052\IMG_230110124228372.jpg
+52,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\052\IMG_230110124256032.jpg
+52,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\052\IMG_230110124326746.jpg
+52,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\052\IMG_230110124440488.jpg
+52,Benign,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\052\IMG_230110124548829.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110124806392.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110124940767.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110125002804.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110125018214.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110125033165.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110125046466.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110125100899.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110125125930.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110125206767.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110125222967.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110125241416.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110125254493.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110125317710.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110125408776.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110125503169.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110125527841.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110125554045.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110125607393.jpg
+53,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\053\IMG_230110125622513.jpg
+54,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\054\IMG_230110125844215.jpg
+54,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\054\IMG_230110125929899.jpg
+54,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\054\IMG_230110130037928.jpg
+54,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\054\IMG_230110130054004.jpg
+54,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\054\IMG_230110130126150.jpg
+54,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\054\IMG_230110130211572.jpg
+54,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\054\IMG_230110130405676.jpg
+54,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\054\IMG_230110130429710.jpg
+54,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\054\IMG_230110130514400.jpg
+54,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\054\IMG_230110130551900.jpg
+54,Goitre,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\054\IMG_230110130706355.jpg
+55,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\055\IMG_230110132016265.jpg
+55,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\055\IMG_230110132222717.jpg
+55,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\055\IMG_230110132255291.jpg
+55,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\055\IMG_230110132319403.jpg
+55,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\055\IMG_230110132349331.jpg
+55,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\055\IMG_230110132408510.jpg
+55,Goitre,Simple Nodular Goitre,0.0,train,test,train,train,train,TAN\055\IMG_230110132429883.jpg
+56, Neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\056\IMG_230116110344150.jpg
+56, Neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\056\IMG_230116110358790.jpg
+56, Neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\056\IMG_230116110418494.jpg
+56, Neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\056\IMG_230116110440680.jpg
+56, Neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\056\IMG_230116110627481.jpg
+56, Neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\056\IMG_230116110651992.jpg
+56, Neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\056\IMG_230116110902312.jpg
+56, Neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\056\IMG_230116110924587.jpg
+56, Neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\056\IMG_230116111004932.jpg
+56, Neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\056\IMG_230116111108966.jpg
+56, Neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\056\IMG_230116111229379.jpg
+56, Neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\056\IMG_230116111249344.jpg
+56, Neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\056\IMG_230116111316267.jpg
+57,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\057\IMG_230116111515599.jpg
+57,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\057\IMG_230116111957807.jpg
+57,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\057\IMG_230116112056480.jpg
+57,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\057\IMG_230116112120021.jpg
+57,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\057\IMG_230116112136500.jpg
+57,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\057\IMG_230116112200691.jpg
+57,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\057\IMG_230116112249535.jpg
+57,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\057\IMG_230116112329616.jpg
+57,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\057\IMG_230116112353767.jpg
+58,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\058\IMG_230116113020571.jpg
+58,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\058\IMG_230116113117322.jpg
+58,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\058\IMG_230116113137785.jpg
+58,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\058\IMG_230116113153916.jpg
+58,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\058\IMG_230116113205210.jpg
+58,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\058\IMG_230116113223230.jpg
+58,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\058\IMG_230116113243818.jpg
+58,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\058\IMG_230116113257985.jpg
+58,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\058\IMG_230116113308863.jpg
+58,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\058\IMG_230116113327644.jpg
+58,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\058\IMG_230116113436529.jpg
+58,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\058\IMG_230116113455683.jpg
+58,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\058\IMG_230116113516796.jpg
+58,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\058\IMG_230116113653968.jpg
+58,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\058\IMG_230116113715071.jpg
+58,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\058\IMG_230116113729722.jpg
+58,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\058\IMG_230116113749579.jpg
+59,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\059\IMG_230116115509126.jpg
+59,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\059\IMG_230116115727279.jpg
+59,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\059\IMG_230116115749114.jpg
+59,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\059\IMG_230116115805639.jpg
+59,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\059\IMG_230116115817503.jpg
+59,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\059\IMG_230116115828744.jpg
+59,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\059\IMG_230116115838138.jpg
+59,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\059\IMG_230116115850194.jpg
+59,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\059\IMG_230116115901968.jpg
+59,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\059\IMG_230116115911709.jpg
+59,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\059\IMG_230116115924165.jpg
+59,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\059\IMG_230116115935641.jpg
+59,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\059\IMG_230116115945096.jpg
+59,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\059\IMG_230116115957363.jpg
+59,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\059\IMG_230116120008382.jpg
+59,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\059\IMG_230116120039316.jpg
+60, Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\060\IMG_230116120613866.jpg
+60, Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\060\IMG_230116120756736.jpg
+60, Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\060\IMG_230116120852159.jpg
+60, Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\060\IMG_230116120932432.jpg
+60, Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\060\IMG_230116120953999.jpg
+60, Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\060\IMG_230116121008359.jpg
+60, Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\060\IMG_230116121048999.jpg
+60, Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\060\IMG_230116121127098.jpg
+60, Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\060\IMG_230116121205874.jpg
+61,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\061\IMG_230116121640058.jpg
+61,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\061\IMG_230116121805960.jpg
+61,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\061\IMG_230116121829367.jpg
+61,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\061\IMG_230116121848927.jpg
+61,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\061\IMG_230116121928684.jpg
+61,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\061\IMG_230116121947739.jpg
+61,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\061\IMG_230116122001849.jpg
+61,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\061\IMG_230116122016329.jpg
+61,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\061\IMG_230116122031138.jpg
+61,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\061\IMG_230116122218542.jpg
+61,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\061\IMG_230116122249542.jpg
+61,Benign,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\061\IMG_230116122631934.jpg
+62,benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\062\IMG_230116123001907.jpg
+62,benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\062\IMG_230116123125987.jpg
+62,benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\062\IMG_230116123141863.jpg
+62,benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\062\IMG_230116123205331.jpg
+62,benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\062\IMG_230116123229185.jpg
+62,benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\062\IMG_230116123245245.jpg
+62,benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\062\IMG_230116123313130.jpg
+62,benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\062\IMG_230116123338753.jpg
+62,benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\062\IMG_230116123355920.jpg
+62,benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\062\IMG_230116123421924.jpg
+62,benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\062\IMG_230116123447608.jpg
+62,benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\062\IMG_230116123514637.jpg
+62,benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\062\IMG_230116123549617.jpg
+62,benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\062\IMG_230116123708590.jpg
+63,Malignancy,Squamous cell carcinoma,1.0,train,train,train,test,train,TAN\063\IMG_230116123907305.jpg
+63,Malignancy,Squamous cell carcinoma,1.0,train,train,train,test,train,TAN\063\IMG_230116124257029.jpg
+63,Malignancy,Squamous cell carcinoma,1.0,train,train,train,test,train,TAN\063\IMG_230116124322486.jpg
+63,Malignancy,Squamous cell carcinoma,1.0,train,train,train,test,train,TAN\063\IMG_230116124341461.jpg
+63,Malignancy,Squamous cell carcinoma,1.0,train,train,train,test,train,TAN\063\IMG_230116124450518.jpg
+63,Malignancy,Squamous cell carcinoma,1.0,train,train,train,test,train,TAN\063\IMG_230116124506907.jpg
+63,Malignancy,Squamous cell carcinoma,1.0,train,train,train,test,train,TAN\063\IMG_230116124551795.jpg
+63,Malignancy,Squamous cell carcinoma,1.0,train,train,train,test,train,TAN\063\IMG_230116124639202.jpg
+63,Malignancy,Squamous cell carcinoma,1.0,train,train,train,test,train,TAN\063\IMG_230116124700739.jpg
+63,Malignancy,Squamous cell carcinoma,1.0,train,train,train,test,train,TAN\063\IMG_230116124736749.jpg
+63,Malignancy,Squamous cell carcinoma,1.0,train,train,train,test,train,TAN\063\IMG_230116124753997.jpg
+63,Malignancy,Squamous cell carcinoma,1.0,train,train,train,test,train,TAN\063\IMG_230116124838129.jpg
+63,Malignancy,Squamous cell carcinoma,1.0,train,train,train,test,train,TAN\063\IMG_230116124859912.jpg
+63,Malignancy,Squamous cell carcinoma,1.0,train,train,train,test,train,TAN\063\IMG_230116124914199.jpg
+63,Malignancy,Squamous cell carcinoma,1.0,train,train,train,test,train,TAN\063\IMG_230116124930748.jpg
+64,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\064\IMG_230116125151127.jpg
+64,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\064\IMG_230116125238843.jpg
+64,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\064\IMG_230116125258112.jpg
+64,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\064\IMG_230116125409113.jpg
+64,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\064\IMG_230116125425741.jpg
+64,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\064\IMG_230116125513414.jpg
+64,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\064\IMG_230116125540305.jpg
+64,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\064\IMG_230116125554777.jpg
+64,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\064\IMG_230116125618521.jpg
+64,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\064\IMG_230116125735466.jpg
+64,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\064\IMG_230116125821400.jpg
+64,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\064\IMG_230116125923552.jpg
+64,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\064\IMG_230116130031891.jpg
+64,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\064\IMG_230116130056378.jpg
+64,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\064\IMG_230116130107840.jpg
+64,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\064\IMG_230116130202334.jpg
+64,Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\064\IMG_230116130223070.jpg
+65,Malignancy,Carcinoma,1.0,train,test,train,train,train,TAN\065\IMG_230116130441781.jpg
+65,Malignancy,Carcinoma,1.0,train,test,train,train,train,TAN\065\IMG_230116130957921.jpg
+65,Malignancy,Carcinoma,1.0,train,test,train,train,train,TAN\065\IMG_230116131042894.jpg
+65,Malignancy,Carcinoma,1.0,train,test,train,train,train,TAN\065\IMG_230116131055478.jpg
+65,Malignancy,Carcinoma,1.0,train,test,train,train,train,TAN\065\IMG_230116131115966.jpg
+65,Malignancy,Carcinoma,1.0,train,test,train,train,train,TAN\065\IMG_230116131142180.jpg
+65,Malignancy,Carcinoma,1.0,train,test,train,train,train,TAN\065\IMG_230116131157178.jpg
+65,Malignancy,Carcinoma,1.0,train,test,train,train,train,TAN\065\IMG_230116131221519.jpg
+65,Malignancy,Carcinoma,1.0,train,test,train,train,train,TAN\065\IMG_230116131302428.jpg
+65,Malignancy,Carcinoma,1.0,train,test,train,train,train,TAN\065\IMG_230116131319699.jpg
+65,Malignancy,Carcinoma,1.0,train,test,train,train,train,TAN\065\IMG_230116131345129.jpg
+65,Malignancy,Carcinoma,1.0,train,test,train,train,train,TAN\065\IMG_230116131417437.jpg
+65,Malignancy,Carcinoma,1.0,train,test,train,train,train,TAN\065\IMG_230116131426823.jpg
+65,Malignancy,Carcinoma,1.0,train,test,train,train,train,TAN\065\IMG_230116131629630.jpg
+65,Malignancy,Carcinoma,1.0,train,test,train,train,train,TAN\065\IMG_230116131640489.jpg
+66,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\066\IMG_230119085748654.jpg
+66,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\066\IMG_230119085853258.jpg
+66,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\066\IMG_230119085909996.jpg
+66,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\066\IMG_230119090001127.jpg
+66,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\066\IMG_230119090019761.jpg
+66,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\066\IMG_230119090042019.jpg
+66,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\066\IMG_230119090316766.jpg
+66,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\066\IMG_230119090329485.jpg
+66,Benign,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\066\IMG_230119090348813.jpg
+67,Benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\067\IMG_230119091210484.jpg
+67,Benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\067\IMG_230119091307998.jpg
+67,Benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\067\IMG_230119091400676.jpg
+67,Benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\067\IMG_230119091503811.jpg
+67,Benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\067\IMG_230119091512545.jpg
+67,Benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\067\IMG_230119091525417.jpg
+67,Benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\067\IMG_230119091535649.jpg
+67,Benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\067\IMG_230119091559269.jpg
+67,Benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\067\IMG_230119091621414.jpg
+67,Benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\067\IMG_230119091636223.jpg
+67,Benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\067\IMG_230119091711485.jpg
+67,Benign,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\067\IMG_230119091843786.jpg
+68,Abscess,Metastatic carcinoma,1.0,train,train,train,train,test,TAN\068\IMG_230119092105209.jpg
+68,Abscess,Metastatic carcinoma,1.0,train,train,train,train,test,TAN\068\IMG_230119092134879.jpg
+68,Abscess,Metastatic carcinoma,1.0,train,train,train,train,test,TAN\068\IMG_230119092149441.jpg
+68,Abscess,Metastatic carcinoma,1.0,train,train,train,train,test,TAN\068\IMG_230119092205421.jpg
+68,Abscess,Metastatic carcinoma,1.0,train,train,train,train,test,TAN\068\IMG_230119092223814.jpg
+68,Abscess,Metastatic carcinoma,1.0,train,train,train,train,test,TAN\068\IMG_230119092235927.jpg
+68,Abscess,Metastatic carcinoma,1.0,train,train,train,train,test,TAN\068\IMG_230119092249116.jpg
+68,Abscess,Metastatic carcinoma,1.0,train,train,train,train,test,TAN\068\IMG_230119092318436.jpg
+68,Abscess,Metastatic carcinoma,1.0,train,train,train,train,test,TAN\068\IMG_230119092330457.jpg
+68,Abscess,Metastatic carcinoma,1.0,train,train,train,train,test,TAN\068\IMG_230119092340638.jpg
+68,Abscess,Metastatic carcinoma,1.0,train,train,train,train,test,TAN\068\IMG_230119092354975.jpg
+68,Abscess,Metastatic carcinoma,1.0,train,train,train,train,test,TAN\068\IMG_230119092413827.jpg
+68,Abscess,Metastatic carcinoma,1.0,train,train,train,train,test,TAN\068\IMG_230119092435707.jpg
+68,Abscess,Metastatic carcinoma,1.0,train,train,train,train,test,TAN\068\IMG_230119092453597.jpg
+69, Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\069\IMG_230119092619138.jpg
+69, Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\069\IMG_230119092636945.jpg
+69, Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\069\IMG_230119092744350.jpg
+69, Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\069\IMG_230119092805841.jpg
+69, Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\069\IMG_230119092949224.jpg
+69, Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\069\IMG_230119093007989.jpg
+69, Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\069\IMG_230119093025683.jpg
+69, Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\069\IMG_230119093039788.jpg
+69, Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\069\IMG_230119093052242.jpg
+69, Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\069\IMG_230119093106143.jpg
+69, Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\069\IMG_230119093123740.jpg
+69, Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\069\IMG_230119093203985.jpg
+69, Benign,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\069\IMG_230119093225382.jpg
+70,Mucocele,Cystic goitre,0.0,train,train,train,test,train,TAN\070\IMG_230119093617360.jpg
+70,Mucocele,Cystic goitre,0.0,train,train,train,test,train,TAN\070\IMG_230119093754864.jpg
+70,Mucocele,Cystic goitre,0.0,train,train,train,test,train,TAN\070\IMG_230119094105564.jpg
+70,Mucocele,Cystic goitre,0.0,train,train,train,test,train,TAN\070\IMG_230119094221509.jpg
+70,Mucocele,Cystic goitre,0.0,train,train,train,test,train,TAN\070\IMG_230119094343766.jpg
+70,Mucocele,Cystic goitre,0.0,train,train,train,test,train,TAN\070\IMG_230119094435925.jpg
+70,Mucocele,Cystic goitre,0.0,train,train,train,test,train,TAN\070\IMG_230119094539416.jpg
+70,Mucocele,Cystic goitre,0.0,train,train,train,test,train,TAN\070\IMG_230119094604405.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119095013700.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119095109138.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119095130070.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119095145396.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119095207309.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119095225390.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119100732259.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119100749138.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119100808223.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119100826314.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119100841952.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119100912970.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119100948374.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119101006488.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119101023210.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119101046167.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119101054267.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119101115089.jpg
+71,Malignact malonoma,Melanoma,1.0,train,train,test,train,train,TAN\071\IMG_230119101144121.jpg
+72,Inconcusive,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\072\IMG_230119101323679.jpg
+72,Inconcusive,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\072\IMG_230119101713950.jpg
+72,Inconcusive,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\072\IMG_230119101823748.jpg
+72,Inconcusive,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\072\IMG_230119101932751.jpg
+72,Inconcusive,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\072\IMG_230119101944871.jpg
+72,Inconcusive,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\072\IMG_230119102015622.jpg
+72,Inconcusive,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\072\IMG_230119102248543.jpg
+72,Inconcusive,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\072\IMG_230119102312274.jpg
+72,Inconcusive,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\072\IMG_230119102330571.jpg
+72,Inconcusive,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\072\IMG_230119102405245.jpg
+72,Inconcusive,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\072\IMG_230119102421804.jpg
+73,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\073\IMG_230119102538939.jpg
+73,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\073\IMG_230119102640310.jpg
+73,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\073\IMG_230119102746031.jpg
+73,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\073\IMG_230119102813481.jpg
+73,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\073\IMG_230119102826382.jpg
+73,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\073\IMG_230119102902378.jpg
+73,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\073\IMG_230119111010299.jpg
+73,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\073\IMG_230119111246739.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119111826774.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119111913796.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119111927221.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119111940410.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119111952478.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112003699.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112016905.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112032081.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112057965.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112108238.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112124499.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112142209.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112200148.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112219704.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112238877.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112250762.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112302421.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112317646.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112333933.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112358161.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112428888.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112448074.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112503912.jpg
+74,suspicious for malignancy,Inadequate specimen,,train,train,train,train,test,TAN\074\IMG_230119112534086.jpg
+75,Lipoma,Lipoma,,test,train,train,train,train,TAN\075\IMG_230119112910811.jpg
+75,Lipoma,Lipoma,,test,train,train,train,train,TAN\075\IMG_230119113035588.jpg
+75,Lipoma,Lipoma,,test,train,train,train,train,TAN\075\IMG_230119113134482.jpg
+75,Lipoma,Lipoma,,test,train,train,train,train,TAN\075\IMG_230119113226774.jpg
+75,Lipoma,Lipoma,,test,train,train,train,train,TAN\075\IMG_230119113249613.jpg
+75,Lipoma,Lipoma,,test,train,train,train,train,TAN\075\IMG_230119113315166.jpg
+75,Lipoma,Lipoma,,test,train,train,train,train,TAN\075\IMG_230119113330829.jpg
+75,Lipoma,Lipoma,,test,train,train,train,train,TAN\075\IMG_230119113345500.jpg
+75,Lipoma,Lipoma,,test,train,train,train,train,TAN\075\IMG_230119113404941.jpg
+75,Lipoma,Lipoma,,test,train,train,train,train,TAN\075\IMG_230119113430823.jpg
+75,Lipoma,Lipoma,,test,train,train,train,train,TAN\075\IMG_230119113455119.jpg
+75,Lipoma,Lipoma,,test,train,train,train,train,TAN\075\IMG_230119113504393.jpg
+75,Lipoma,Lipoma,,test,train,train,train,train,TAN\075\IMG_230119113527512.jpg
+76,Goitre,Goitre,0.0,train,train,train,test,train,TAN\076\IMG_230120085121018.jpg
+76,Goitre,Goitre,0.0,train,train,train,test,train,TAN\076\IMG_230120085319845.jpg
+76,Goitre,Goitre,0.0,train,train,train,test,train,TAN\076\IMG_230120085342976.jpg
+76,Goitre,Goitre,0.0,train,train,train,test,train,TAN\076\IMG_230120085357821.jpg
+76,Goitre,Goitre,0.0,train,train,train,test,train,TAN\076\IMG_230120085514051.jpg
+76,Goitre,Goitre,0.0,train,train,train,test,train,TAN\076\IMG_230120085537800.jpg
+76,Goitre,Goitre,0.0,train,train,train,test,train,TAN\076\IMG_230120085554785.jpg
+76,Goitre,Goitre,0.0,train,train,train,test,train,TAN\076\IMG_230120085727780.jpg
+76,Goitre,Goitre,0.0,train,train,train,test,train,TAN\076\IMG_230120085804585.jpg
+76,Goitre,Goitre,0.0,train,train,train,test,train,TAN\076\IMG_230120085835269.jpg
+76,Goitre,Goitre,0.0,train,train,train,test,train,TAN\076\IMG_230120085851732.jpg
+76,Goitre,Goitre,0.0,train,train,train,test,train,TAN\076\IMG_230120085909619.jpg
+77,Goitre,Goitre,0.0,train,train,test,train,train,TAN\077\IMG_230120090146034.jpg
+77,Goitre,Goitre,0.0,train,train,test,train,train,TAN\077\IMG_230120090241228.jpg
+77,Goitre,Goitre,0.0,train,train,test,train,train,TAN\077\IMG_230120090338564.jpg
+77,Goitre,Goitre,0.0,train,train,test,train,train,TAN\077\IMG_230120090516383.jpg
+77,Goitre,Goitre,0.0,train,train,test,train,train,TAN\077\IMG_230120090539492.jpg
+77,Goitre,Goitre,0.0,train,train,test,train,train,TAN\077\IMG_230120090605940.jpg
+77,Goitre,Goitre,0.0,train,train,test,train,train,TAN\077\IMG_230120090638400.jpg
+77,Goitre,Goitre,0.0,train,train,test,train,train,TAN\077\IMG_230120090716600.jpg
+77,Goitre,Goitre,0.0,train,train,test,train,train,TAN\077\IMG_230120090832596.jpg
+77,Goitre,Goitre,0.0,train,train,test,train,train,TAN\077\IMG_230120090852185.jpg
+77,Goitre,Goitre,0.0,train,train,test,train,train,TAN\077\IMG_230120090920465.jpg
+78,Goitre,Cystic goitre,0.0,train,train,train,test,train,TAN\078\IMG_230120091245985.jpg
+78,Goitre,Cystic goitre,0.0,train,train,train,test,train,TAN\078\IMG_230120091336971.jpg
+78,Goitre,Cystic goitre,0.0,train,train,train,test,train,TAN\078\IMG_230120091407421.jpg
+78,Goitre,Cystic goitre,0.0,train,train,train,test,train,TAN\078\IMG_230120091438789.jpg
+78,Goitre,Cystic goitre,0.0,train,train,train,test,train,TAN\078\IMG_230120091504091.jpg
+78,Goitre,Cystic goitre,0.0,train,train,train,test,train,TAN\078\IMG_230120091550635.jpg
+78,Goitre,Cystic goitre,0.0,train,train,train,test,train,TAN\078\IMG_230120091616586.jpg
+78,Goitre,Cystic goitre,0.0,train,train,train,test,train,TAN\078\IMG_230120091820546.jpg
+78,Goitre,Cystic goitre,0.0,train,train,train,test,train,TAN\078\IMG_230120091831108.jpg
+78,Goitre,Cystic goitre,0.0,train,train,train,test,train,TAN\078\IMG_230120091927487.jpg
+78,Goitre,Cystic goitre,0.0,train,train,train,test,train,TAN\078\IMG_230120092051431.jpg
+78,Goitre,Cystic goitre,0.0,train,train,train,test,train,TAN\078\IMG_230120092128786.jpg
+79,Hashimoto thyroiditis,Hashimoto thyroiditis,0.0,train,train,train,test,train,TAN\079\IMG_230120092409866.jpg
+79,Hashimoto thyroiditis,Hashimoto thyroiditis,0.0,train,train,train,test,train,TAN\079\IMG_230120092543784.jpg
+79,Hashimoto thyroiditis,Hashimoto thyroiditis,0.0,train,train,train,test,train,TAN\079\IMG_230120092607360.jpg
+79,Hashimoto thyroiditis,Hashimoto thyroiditis,0.0,train,train,train,test,train,TAN\079\IMG_230120092619493.jpg
+79,Hashimoto thyroiditis,Hashimoto thyroiditis,0.0,train,train,train,test,train,TAN\079\IMG_230120092638291.jpg
+79,Hashimoto thyroiditis,Hashimoto thyroiditis,0.0,train,train,train,test,train,TAN\079\IMG_230120092659322.jpg
+79,Hashimoto thyroiditis,Hashimoto thyroiditis,0.0,train,train,train,test,train,TAN\079\IMG_230120092735939.jpg
+79,Hashimoto thyroiditis,Hashimoto thyroiditis,0.0,train,train,train,test,train,TAN\079\IMG_230120092843557.jpg
+79,Hashimoto thyroiditis,Hashimoto thyroiditis,0.0,train,train,train,test,train,TAN\079\IMG_230120092906649.jpg
+79,Hashimoto thyroiditis,Hashimoto thyroiditis,0.0,train,train,train,test,train,TAN\079\IMG_230120092934603.jpg
+79,Hashimoto thyroiditis,Hashimoto thyroiditis,0.0,train,train,train,test,train,TAN\079\IMG_230120093004229.jpg
+79,Hashimoto thyroiditis,Hashimoto thyroiditis,0.0,train,train,train,test,train,TAN\079\IMG_230120093100606.jpg
+79,Hashimoto thyroiditis,Hashimoto thyroiditis,0.0,train,train,train,test,train,TAN\079\IMG_230120093118739.jpg
+79,Hashimoto thyroiditis,Hashimoto thyroiditis,0.0,train,train,train,test,train,TAN\079\IMG_230120093146842.jpg
+80,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\080\IMG_230120093439859.jpg
+80,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\080\IMG_230120093636114.jpg
+80,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\080\IMG_230120093738164.jpg
+80,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\080\IMG_230120093812963.jpg
+80,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\080\IMG_230120093837454.jpg
+80,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\080\IMG_230120093903417.jpg
+80,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\080\IMG_230120094008115.jpg
+80,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\080\IMG_230120094114349.jpg
+80,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\080\IMG_230120094149205.jpg
+80,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\080\IMG_230120094231834.jpg
+80,Benign nodule,Simple Nodular Goitre,0.0,test,train,train,train,train,TAN\080\IMG_230120094305819.jpg
+81,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\081\IMG_230120095248348.jpg
+81,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\081\IMG_230120095723815.jpg
+81,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\081\IMG_230120095816048.jpg
+81,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\081\IMG_230120095851942.jpg
+81,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\081\IMG_230120095906733.jpg
+81,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\081\IMG_230120095930580.jpg
+81,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\081\IMG_230120100003964.jpg
+81,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\081\IMG_230120100039668.jpg
+81,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\081\IMG_230120100141735.jpg
+81,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\081\IMG_230120100336043.jpg
+81,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\081\IMG_230120100412301.jpg
+81,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\081\IMG_230120100431963.jpg
+82,Carcinoma,Thyroid carcinoma; NOS,1.0,train,test,train,train,train,TAN\082\IMG_230120102915244.jpg
+82,Carcinoma,Thyroid carcinoma; NOS,1.0,train,test,train,train,train,TAN\082\IMG_230120102943836.jpg
+82,Carcinoma,Thyroid carcinoma; NOS,1.0,train,test,train,train,train,TAN\082\IMG_230120103001097.jpg
+82,Carcinoma,Thyroid carcinoma; NOS,1.0,train,test,train,train,train,TAN\082\IMG_230120103026037.jpg
+82,Carcinoma,Thyroid carcinoma; NOS,1.0,train,test,train,train,train,TAN\082\IMG_230120103047544.jpg
+82,Carcinoma,Thyroid carcinoma; NOS,1.0,train,test,train,train,train,TAN\082\IMG_230120103104952.jpg
+82,Carcinoma,Thyroid carcinoma; NOS,1.0,train,test,train,train,train,TAN\082\IMG_230120103115756.jpg
+82,Carcinoma,Thyroid carcinoma; NOS,1.0,train,test,train,train,train,TAN\082\IMG_230120103157982.jpg
+82,Carcinoma,Thyroid carcinoma; NOS,1.0,train,test,train,train,train,TAN\082\IMG_230120103230165.jpg
+82,Carcinoma,Thyroid carcinoma; NOS,1.0,train,test,train,train,train,TAN\082\IMG_230120103310129.jpg
+82,Carcinoma,Thyroid carcinoma; NOS,1.0,train,test,train,train,train,TAN\082\IMG_230120103433044.jpg
+82,Carcinoma,Thyroid carcinoma; NOS,1.0,train,test,train,train,train,TAN\082\IMG_230120103459428.jpg
+83,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\083\IMG_230120103641727.jpg
+83,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\083\IMG_230120103749573.jpg
+83,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\083\IMG_230120103813165.jpg
+83,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\083\IMG_230120103845167.jpg
+83,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\083\IMG_230120103905164.jpg
+83,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\083\IMG_230120103933341.jpg
+83,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\083\IMG_230120103959410.jpg
+83,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\083\IMG_230120104030761.jpg
+83,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\083\IMG_230120104044703.jpg
+83,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\083\IMG_230120104057304.jpg
+83,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\083\IMG_230120104111908.jpg
+83,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\083\IMG_230120104129511.jpg
+83,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\083\IMG_230120104142216.jpg
+83,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\083\IMG_230120104204480.jpg
+83,Benign nodule,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\083\IMG_230120104241919.jpg
+84, Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\084\IMG_230120104441038.jpg
+84, Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\084\IMG_230120104517083.jpg
+84, Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\084\IMG_230120104615455.jpg
+84, Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\084\IMG_230120104902037.jpg
+84, Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\084\IMG_230120104923194.jpg
+84, Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\084\IMG_230120105036287.jpg
+84, Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\084\IMG_230120105134252.jpg
+84, Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\084\IMG_230120105146315.jpg
+84, Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\084\IMG_230120105311570.jpg
+85,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\085\IMG_230120105454519.jpg
+85,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\085\IMG_230120105622196.jpg
+85,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\085\IMG_230120105645902.jpg
+85,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\085\IMG_230120105716837.jpg
+85,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\085\IMG_230120105749992.jpg
+85,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\085\IMG_230120105812915.jpg
+85,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\085\IMG_230120105901440.jpg
+85,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\085\IMG_230120105920168.jpg
+85,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\085\IMG_230120110015925.jpg
+85,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\085\IMG_230120110118325.jpg
+85,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\085\IMG_230120110140795.jpg
+85,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\085\IMG_230120110158014.jpg
+85,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\085\IMG_230120110211241.jpg
+85,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\085\IMG_230120110229854.jpg
+85,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\085\IMG_230120110243136.jpg
+85,Goitre,Simple Nodular Goitre,0.0,train,train,test,train,train,TAN\085\IMG_230120110256722.jpg
+86,Goitre,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\086\IMG_230120110356127.jpg
+86,Goitre,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\086\IMG_230120110454776.jpg
+86,Goitre,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\086\IMG_230120110519420.jpg
+86,Goitre,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\086\IMG_230120110534616.jpg
+86,Goitre,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\086\IMG_230120110607470.jpg
+86,Goitre,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\086\IMG_230120110630032.jpg
+86,Goitre,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\086\IMG_230120110714448.jpg
+86,Goitre,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\086\IMG_230120110732748.jpg
+86,Goitre,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\086\IMG_230120110749492.jpg
+86,Goitre,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\086\IMG_230120110832457.jpg
+86,Goitre,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\086\IMG_230120110850953.jpg
+86,Goitre,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\086\IMG_230120110909344.jpg
+86,Goitre,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\086\IMG_230120110930336.jpg
+86,Goitre,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\086\IMG_230120111005791.jpg
+86,Goitre,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\086\IMG_230120111051920.jpg
+86,Goitre,Simple Nodular Goitre,0.0,train,train,train,train,test,TAN\086\IMG_230120111129967.jpg
+87,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\087\IMG_230120111337640.jpg
+87,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\087\IMG_230120111515457.jpg
+87,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\087\IMG_230120111531062.jpg
+87,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\087\IMG_230120111553338.jpg
+87,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\087\IMG_230120111606537.jpg
+87,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\087\IMG_230120111628300.jpg
+87,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\087\IMG_230120111703659.jpg
+87,Benign nodule,Simple Nodular Goitre,0.0,train,train,train,test,train,TAN\087\IMG_230120111721812.jpg
+88,Thyroiditis,Chronic thyroiditis/Hashimoto,0.0,train,test,train,train,train,TAN\088\IMG_230120112950009.jpg
+88,Thyroiditis,Chronic thyroiditis/Hashimoto,0.0,train,test,train,train,train,TAN\088\IMG_230120113013621.jpg
+88,Thyroiditis,Chronic thyroiditis/Hashimoto,0.0,train,test,train,train,train,TAN\088\IMG_230120113111580.jpg
+88,Thyroiditis,Chronic thyroiditis/Hashimoto,0.0,train,test,train,train,train,TAN\088\IMG_230120113247856.jpg
+88,Thyroiditis,Chronic thyroiditis/Hashimoto,0.0,train,test,train,train,train,TAN\088\IMG_230120113325208.jpg
+88,Thyroiditis,Chronic thyroiditis/Hashimoto,0.0,train,test,train,train,train,TAN\088\IMG_230120113344721.jpg
+88,Thyroiditis,Chronic thyroiditis/Hashimoto,0.0,train,test,train,train,train,TAN\088\IMG_230120113400880.jpg
+88,Thyroiditis,Chronic thyroiditis/Hashimoto,0.0,train,test,train,train,train,TAN\088\IMG_230120113419084.jpg
+88,Thyroiditis,Chronic thyroiditis/Hashimoto,0.0,train,test,train,train,train,TAN\088\IMG_230120113532080.jpg
+88,Thyroiditis,Chronic thyroiditis/Hashimoto,0.0,train,test,train,train,train,TAN\088\IMG_230120113617287.jpg
+88,Thyroiditis,Chronic thyroiditis/Hashimoto,0.0,train,test,train,train,train,TAN\088\IMG_230120113723223.jpg
+88,Thyroiditis,Chronic thyroiditis/Hashimoto,0.0,train,test,train,train,train,TAN\088\IMG_230120113735742.jpg
+88,Thyroiditis,Chronic thyroiditis/Hashimoto,0.0,train,test,train,train,train,TAN\088\IMG_230120113803393.jpg
+88,Thyroiditis,Chronic thyroiditis/Hashimoto,0.0,train,test,train,train,train,TAN\088\IMG_230120113813831.jpg
+89,Goitre,Colloid goitre,0.0,train,test,train,train,train,TAN\089\IMG_230120132206268.jpg
+89,Goitre,Colloid goitre,0.0,train,test,train,train,train,TAN\089\IMG_230120132239146.jpg
+89,Goitre,Colloid goitre,0.0,train,test,train,train,train,TAN\089\IMG_230120132252316.jpg
+89,Goitre,Colloid goitre,0.0,train,test,train,train,train,TAN\089\IMG_230120132422667.jpg
+89,Goitre,Colloid goitre,0.0,train,test,train,train,train,TAN\089\IMG_230120132437719.jpg
+89,Goitre,Colloid goitre,0.0,train,test,train,train,train,TAN\089\IMG_230120132446750.jpg
+89,Goitre,Colloid goitre,0.0,train,test,train,train,train,TAN\089\IMG_230120132456558.jpg
+89,Goitre,Colloid goitre,0.0,train,test,train,train,train,TAN\089\IMG_230120132505294.jpg
+89,Goitre,Colloid goitre,0.0,train,test,train,train,train,TAN\089\IMG_230120132519308.jpg
+89,Goitre,Colloid goitre,0.0,train,test,train,train,train,TAN\089\IMG_230120132540290.jpg
+89,Goitre,Colloid goitre,0.0,train,test,train,train,train,TAN\089\IMG_230120132558114.jpg
+89,Goitre,Colloid goitre,0.0,train,test,train,train,train,TAN\089\IMG_230120132609608.jpg
+89,Goitre,Colloid goitre,0.0,train,test,train,train,train,TAN\089\IMG_230120132626035.jpg
+89,Goitre,Colloid goitre,0.0,train,test,train,train,train,TAN\089\IMG_230120132702539.jpg
+89,Goitre,Colloid goitre,0.0,train,test,train,train,train,TAN\089\IMG_230120132741971.jpg
+89,Goitre,Colloid goitre,0.0,train,test,train,train,train,TAN\089\IMG_230120132844518.jpg
+90,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,test,train,TAN\090\IMG_230120133047260.jpg
+90,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,test,train,TAN\090\IMG_230120133218933.jpg
+90,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,test,train,TAN\090\IMG_230120133258304.jpg
+90,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,test,train,TAN\090\IMG_230120133334571.jpg
+90,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,test,train,TAN\090\IMG_230120133423766.jpg
+90,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,test,train,TAN\090\IMG_230120133502504.jpg
+90,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,test,train,TAN\090\IMG_230120133520409.jpg
+90,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,test,train,TAN\090\IMG_230120133533310.jpg
+90,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,test,train,TAN\090\IMG_230120133631978.jpg
+90,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,test,train,TAN\090\IMG_230120133653719.jpg
+90,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,test,train,TAN\090\IMG_230120133723017.jpg
+90,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,test,train,TAN\090\IMG_230120133747302.jpg
+90,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,test,train,TAN\090\IMG_230120133800291.jpg
+90,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,test,train,TAN\090\IMG_230120133902955.jpg
+91,Goitre,Goitre,0.0,train,train,train,test,train,TAN\091\IMG_230120134149473.jpg
+91,Goitre,Goitre,0.0,train,train,train,test,train,TAN\091\IMG_230120134206191.jpg
+91,Goitre,Goitre,0.0,train,train,train,test,train,TAN\091\IMG_230120134219654.jpg
+91,Goitre,Goitre,0.0,train,train,train,test,train,TAN\091\IMG_230120134248867.jpg
+91,Goitre,Goitre,0.0,train,train,train,test,train,TAN\091\IMG_230120134305810.jpg
+91,Goitre,Goitre,0.0,train,train,train,test,train,TAN\091\IMG_230120134327999.jpg
+91,Goitre,Goitre,0.0,train,train,train,test,train,TAN\091\IMG_230120134339865.jpg
+91,Goitre,Goitre,0.0,train,train,train,test,train,TAN\091\IMG_230120134420898.jpg
+91,Goitre,Goitre,0.0,train,train,train,test,train,TAN\091\IMG_230120134454562.jpg
+91,Goitre,Goitre,0.0,train,train,train,test,train,TAN\091\IMG_230120134549047.jpg
+91,Goitre,Goitre,0.0,train,train,train,test,train,TAN\091\IMG_230120134641291.jpg
+91,Goitre,Goitre,0.0,train,train,train,test,train,TAN\091\IMG_230120134704831.jpg
+91,Goitre,Goitre,0.0,train,train,train,test,train,TAN\091\IMG_230120134719058.jpg
+91,Goitre,Goitre,0.0,train,train,train,test,train,TAN\091\IMG_230120134751707.jpg
+91,Goitre,Goitre,0.0,train,train,train,test,train,TAN\091\IMG_230120134811635.jpg
+92,Benign nodule,Goitre ,0.0,train,train,train,train,test,TAN\092\IMG_230120135123276.jpg
+92,Benign nodule,Goitre ,0.0,train,train,train,train,test,TAN\092\IMG_230120135246597.jpg
+92,Benign nodule,Goitre ,0.0,train,train,train,train,test,TAN\092\IMG_230120135329201.jpg
+92,Benign nodule,Goitre ,0.0,train,train,train,train,test,TAN\092\IMG_230120135448310.jpg
+92,Benign nodule,Goitre ,0.0,train,train,train,train,test,TAN\092\IMG_230120135501136.jpg
+92,Benign nodule,Goitre ,0.0,train,train,train,train,test,TAN\092\IMG_230120135525374.jpg
+92,Benign nodule,Goitre ,0.0,train,train,train,train,test,TAN\092\IMG_230120135546388.jpg
+92,Benign nodule,Goitre ,0.0,train,train,train,train,test,TAN\092\IMG_230120135612872.jpg
+92,Benign nodule,Goitre ,0.0,train,train,train,train,test,TAN\092\IMG_230120135701323.jpg
+92,Benign nodule,Goitre ,0.0,train,train,train,train,test,TAN\092\IMG_230120135743139.jpg
+92,Benign nodule,Goitre ,0.0,train,train,train,train,test,TAN\092\IMG_230120135813715.jpg
+92,Benign nodule,Goitre ,0.0,train,train,train,train,test,TAN\092\IMG_230120135833871.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140118559.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140351901.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140406191.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140418957.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140426381.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140435015.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140443383.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140453531.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140507469.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140515863.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140527969.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140538631.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140548300.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140555933.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140605970.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140614883.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140631822.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140648596.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140841227.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140850094.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140858812.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140908100.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140925590.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140938722.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120140948192.jpg
+93,Thyroiditis,Hashimoto thyroiditis,0.0,train,train,test,train,train,TAN\093\IMG_230120141000995.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112147917.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112239474.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112303199.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112322833.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112350168.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112409396.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112426823.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112442436.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112518850.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112535307.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112544999.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112610599.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112634493.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112720933.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112809905.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112835192.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112846895.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112855833.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112912552.jpg
+94,Benign,Follicular adenoma,0.0,train,test,train,train,train,TAN\094\IMG_230125112929316.jpg
+95,Benign,Goitre with thyroiditis,0.0,test,train,train,train,train,TAN\095\IMG_230125113150914.jpg
+95,Benign,Goitre with thyroiditis,0.0,test,train,train,train,train,TAN\095\IMG_230125113223350.jpg
+95,Benign,Goitre with thyroiditis,0.0,test,train,train,train,train,TAN\095\IMG_230125113238863.jpg
+95,Benign,Goitre with thyroiditis,0.0,test,train,train,train,train,TAN\095\IMG_230125113256423.jpg
+95,Benign,Goitre with thyroiditis,0.0,test,train,train,train,train,TAN\095\IMG_230125113313685.jpg
+95,Benign,Goitre with thyroiditis,0.0,test,train,train,train,train,TAN\095\IMG_230125113330564.jpg
+95,Benign,Goitre with thyroiditis,0.0,test,train,train,train,train,TAN\095\IMG_230125113349609.jpg
+95,Benign,Goitre with thyroiditis,0.0,test,train,train,train,train,TAN\095\IMG_230125113402376.jpg
+95,Benign,Goitre with thyroiditis,0.0,test,train,train,train,train,TAN\095\IMG_230125113427118.jpg
+95,Benign,Goitre with thyroiditis,0.0,test,train,train,train,train,TAN\095\IMG_230125113450798.jpg
+95,Benign,Goitre with thyroiditis,0.0,test,train,train,train,train,TAN\095\IMG_230125113511236.jpg
+95,Benign,Goitre with thyroiditis,0.0,test,train,train,train,train,TAN\095\IMG_230125113532002.jpg
+95,Benign,Goitre with thyroiditis,0.0,test,train,train,train,train,TAN\095\IMG_230125113547205.jpg
+95,Benign,Goitre with thyroiditis,0.0,test,train,train,train,train,TAN\095\IMG_230125113559010.jpg
+95,Benign,Goitre with thyroiditis,0.0,test,train,train,train,train,TAN\095\IMG_230125113836723.jpg
+96,Goitre,Follicular adenoma,0.0,train,train,test,train,train,TAN\096\IMG_230125114326245.jpg
+96,Goitre,Follicular adenoma,0.0,train,train,test,train,train,TAN\096\IMG_230125114841052.jpg
+96,Goitre,Follicular adenoma,0.0,train,train,test,train,train,TAN\096\IMG_230125114932995.jpg
+96,Goitre,Follicular adenoma,0.0,train,train,test,train,train,TAN\096\IMG_230125114953053.jpg
+96,Goitre,Follicular adenoma,0.0,train,train,test,train,train,TAN\096\IMG_230125115008741.jpg
+96,Goitre,Follicular adenoma,0.0,train,train,test,train,train,TAN\096\IMG_230125115105165.jpg
+96,Goitre,Follicular adenoma,0.0,train,train,test,train,train,TAN\096\IMG_230125115148078.jpg
+97,Beign,Colloid goitre,0.0,train,test,train,train,train,TAN\097\IMG_230125115728306.jpg
+97,Beign,Colloid goitre,0.0,train,test,train,train,train,TAN\097\IMG_230125115826079.jpg
+97,Beign,Colloid goitre,0.0,train,test,train,train,train,TAN\097\IMG_230125115922224.jpg
+97,Beign,Colloid goitre,0.0,train,test,train,train,train,TAN\097\IMG_230125120014515.jpg
+97,Beign,Colloid goitre,0.0,train,test,train,train,train,TAN\097\IMG_230125120059277.jpg
+97,Beign,Colloid goitre,0.0,train,test,train,train,train,TAN\097\IMG_230125120117313.jpg
+97,Beign,Colloid goitre,0.0,train,test,train,train,train,TAN\097\IMG_230125120214169.jpg
+97,Beign,Colloid goitre,0.0,train,test,train,train,train,TAN\097\IMG_230125120331216.jpg
+97,Beign,Colloid goitre,0.0,train,test,train,train,train,TAN\097\IMG_230125120345712.jpg
+97,Beign,Colloid goitre,0.0,train,test,train,train,train,TAN\097\IMG_230125120426556.jpg
+97,Beign,Colloid goitre,0.0,train,test,train,train,train,TAN\097\IMG_230125120538557.jpg
+97,Beign,Colloid goitre,0.0,train,test,train,train,train,TAN\097\IMG_230125120603732.jpg
+97,Beign,Colloid goitre,0.0,train,test,train,train,train,TAN\097\IMG_230125120615652.jpg
+98,Follicular neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\098\IMG_230202113936885.jpg
+98,Follicular neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\098\IMG_230202114313114.jpg
+98,Follicular neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\098\IMG_230202114334898.jpg
+98,Follicular neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\098\IMG_230202114518441.jpg
+98,Follicular neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\098\IMG_230202114531817.jpg
+98,Follicular neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\098\IMG_230202114656240.jpg
+98,Follicular neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\098\IMG_230202114708147.jpg
+98,Follicular neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\098\IMG_230202114830431.jpg
+98,Follicular neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\098\IMG_230202114913938.jpg
+98,Follicular neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\098\IMG_230202114926221.jpg
+98,Follicular neoplasm,Follicular adenoma,0.0,test,train,train,train,train,TAN\098\IMG_230202115106209.jpg
+99,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\099\IMG_230202115503930.jpg
+99,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\099\IMG_230202115548593.jpg
+99,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\099\IMG_230202115713716.jpg
+99,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\099\IMG_230202115809630.jpg
+99,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\099\IMG_230202115926732.jpg
+99,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\099\IMG_230202120109246.jpg
+99,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\099\IMG_230202120146456.jpg
+99,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\099\IMG_230202120328727.jpg
+99,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\099\IMG_230202120407896.jpg
+99,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\099\IMG_230202120449616.jpg
+99,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\099\IMG_230202120559329.jpg
+99,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\099\IMG_230202120702294.jpg
+99,Follicular neoplasm,Follicular adenoma,0.0,train,test,train,train,train,TAN\099\IMG_230202120749319.jpg
+100,Follicular neoplasm,Adenomatous goitre,0.0,train,train,train,train,test,TAN\100\IMG_230202120914079.jpg
+100,Follicular neoplasm,Adenomatous goitre,0.0,train,train,train,train,test,TAN\100\IMG_230202120944520.jpg
+100,Follicular neoplasm,Adenomatous goitre,0.0,train,train,train,train,test,TAN\100\IMG_230202121012648.jpg
+100,Follicular neoplasm,Adenomatous goitre,0.0,train,train,train,train,test,TAN\100\IMG_230202121051827.jpg
+100,Follicular neoplasm,Adenomatous goitre,0.0,train,train,train,train,test,TAN\100\IMG_230202121131707.jpg
+100,Follicular neoplasm,Adenomatous goitre,0.0,train,train,train,train,test,TAN\100\IMG_230202121315315.jpg
+100,Follicular neoplasm,Adenomatous goitre,0.0,train,train,train,train,test,TAN\100\IMG_230202121358535.jpg
+100,Follicular neoplasm,Adenomatous goitre,0.0,train,train,train,train,test,TAN\100\IMG_230202121415724.jpg
+100,Follicular neoplasm,Adenomatous goitre,0.0,train,train,train,train,test,TAN\100\IMG_230202121434295.jpg
+100,Follicular neoplasm,Adenomatous goitre,0.0,train,train,train,train,test,TAN\100\IMG_230202121534467.jpg
+100,Follicular neoplasm,Adenomatous goitre,0.0,train,train,train,train,test,TAN\100\IMG_230202121555912.jpg
+100,Follicular neoplasm,Adenomatous goitre,0.0,train,train,train,train,test,TAN\100\IMG_230202121619965.jpg
+100,Follicular neoplasm,Adenomatous goitre,0.0,train,train,train,train,test,TAN\100\IMG_230202121646545.jpg
+100,Follicular neoplasm,Adenomatous goitre,0.0,train,train,train,train,test,TAN\100\IMG_230202121714747.jpg
+100,Follicular neoplasm,Adenomatous goitre,0.0,train,train,train,train,test,TAN\100\IMG_230202121756669.jpg
+101,Carcinoma,No biopsy,,train,train,test,train,train,TAN\101\IMG_230202145118661.jpg
+101,Carcinoma,No biopsy,,train,train,test,train,train,TAN\101\IMG_230202145200803.jpg
+101,Carcinoma,No biopsy,,train,train,test,train,train,TAN\101\IMG_230202145350849.jpg
+101,Carcinoma,No biopsy,,train,train,test,train,train,TAN\101\IMG_230202145457171.jpg
+101,Carcinoma,No biopsy,,train,train,test,train,train,TAN\101\IMG_230202145724728.jpg
+101,Carcinoma,No biopsy,,train,train,test,train,train,TAN\101\IMG_230202145836514.jpg
+101,Carcinoma,No biopsy,,train,train,test,train,train,TAN\101\IMG_230202150227013.jpg
+101,Carcinoma,No biopsy,,train,train,test,train,train,TAN\101\IMG_230202150304642.jpg
+101,Carcinoma,No biopsy,,train,train,test,train,train,TAN\101\IMG_230202150422634.jpg
+101,Carcinoma,No biopsy,,train,train,test,train,train,TAN\101\IMG_230202150501899.jpg
+101,Carcinoma,No biopsy,,train,train,test,train,train,TAN\101\IMG_230202150531074.jpg
+101,Carcinoma,No biopsy,,train,train,test,train,train,TAN\101\IMG_230202150612617.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328123014940.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328123057580.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328123139969.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328123948410.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328124011195.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328124051681.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328124149380.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328124222286.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328124242883.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328124318029.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328124350209.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328124409161.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328124423342.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328124440840.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328124457339.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328124518229.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328124531060.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328124548556.jpg
+102,Goitre/thyroiditis,Cystic goitre,0.0,train,train,train,train,test,TAN\102\IMG_230328124604358.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328141810603.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328141859475.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328141918731.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328141939803.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328141958682.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328142015500.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328142045724.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328142120025.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328142142197.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328142159262.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328142225892.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328142239349.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328142248849.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328142305112.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328142323061.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328142346703.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328142402177.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328142418091.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328142434349.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328142516621.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328142630200.jpg
+103,Carcinoma,Anaplastic carcinoma,1.0,train,train,train,test,train,TAN\103\IMG_230328142712354.jpg
+104,Colloid goitre,Colloid goitre,0.0,train,train,train,train,test,TAN\104\IMG_230331124421813.jpg
+104,Colloid goitre,Colloid goitre,0.0,train,train,train,train,test,TAN\104\IMG_230331124429149.jpg
+104,Colloid goitre,Colloid goitre,0.0,train,train,train,train,test,TAN\104\IMG_230331124452040.jpg
+104,Colloid goitre,Colloid goitre,0.0,train,train,train,train,test,TAN\104\IMG_230331124517173.jpg
+104,Colloid goitre,Colloid goitre,0.0,train,train,train,train,test,TAN\104\IMG_230331124622560.jpg
+104,Colloid goitre,Colloid goitre,0.0,train,train,train,train,test,TAN\104\IMG_230331124723895.jpg
+104,Colloid goitre,Colloid goitre,0.0,train,train,train,train,test,TAN\104\IMG_230331125042807.jpg
+104,Colloid goitre,Colloid goitre,0.0,train,train,train,train,test,TAN\104\IMG_230331125150587.jpg
+104,Colloid goitre,Colloid goitre,0.0,train,train,train,train,test,TAN\104\IMG_230331125234961.jpg
+104,Colloid goitre,Colloid goitre,0.0,train,train,train,train,test,TAN\104\IMG_230331125249204.jpg
+104,Colloid goitre,Colloid goitre,0.0,train,train,train,train,test,TAN\104\IMG_230331125429442.jpg
+104,Colloid goitre,Colloid goitre,0.0,train,train,train,train,test,TAN\104\IMG_230331125457985.jpg
+105,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,train,test,TAN\105\IMG_230331130211248.jpg
+105,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,train,test,TAN\105\IMG_230331130239482.jpg
+105,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,train,test,TAN\105\IMG_230331130300006.jpg
+105,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,train,test,TAN\105\IMG_230331130326705.jpg
+105,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,train,test,TAN\105\IMG_230331130358999.jpg
+105,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,train,test,TAN\105\IMG_230331130408736.jpg
+105,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,train,test,TAN\105\IMG_230331130436210.jpg
+105,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,train,test,TAN\105\IMG_230331130454072.jpg
+105,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,train,test,TAN\105\IMG_230331130526195.jpg
+105,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,train,test,TAN\105\IMG_230331130543607.jpg
+105,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,train,test,TAN\105\IMG_230331130554243.jpg
+105,Follicular neoplasm,Follicular adenoma,0.0,train,train,train,train,test,TAN\105\IMG_230331130615209.jpg
