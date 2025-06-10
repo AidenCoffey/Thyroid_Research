@@ -1,26 +1,3 @@
-#!/usr/bin/env python3
-"""
-run_inference_and_export_efficientnet.py
-
-— Given a directory of patient folders (each containing raw images), load a pretrained EfficientNet‐B0 classifier,
-  run inference on every image, and export an Excel file with TWO sheets:
-    Sheet “PerImage”:
-      • patient_id
-      • image_path
-      • prob_cancer    (softmax probability that the image is cancerous)
-      • prob_non       (softmax probability that the image is non‐cancerous)
-      • predicted      (0=cancerous, 1=non‐cancerous)
-      • confidence     (the probability corresponding to the predicted class)
-      – plus an “Overall” row after each patient’s block.
-
-    Sheet “PatientSummary” (one row per patient):
-      • patient_id
-      • mean_prob_cancer
-      • mean_prob_non
-      • overall_predicted  (0 or 1)
-      • overall_confidence (based on mean_prob_cancer vs. mean_prob_non)
-"""
-
 import os
 from PIL import Image
 import torch
@@ -33,13 +10,10 @@ from tqdm import tqdm
 # ----------------------------
 #  CONFIGURE THESE THREE PATHS
 # ----------------------------
-# 1) Root directory where each subfolder is a patient (e.g. "TZ001", "TZ002", etc).
-#    Inside each patient folder are raw images (e.g. .jpg, .png, .tif, etc).
-TEST_ROOT     = "/home/iambrink/NOH_Thyroid_Cancer_Data/TAN-TESTING"
-# 2) Path to your saved EfficientNet‐B0 checkpoint.
-MODEL_PATH    = "/home/iambrink/NOH_Thyroid_Cancer_Data/Notebooks_folder/EB0_Test.pth"
-# 3) Path where the final Excel file will be written.
-OUTPUT_XLSX   = "/home/iambrink/NOH_Thyroid_Cancer_Data/TAN-TESTING/inference_results_efficientnet.xlsx"
+TEST_ROOT   = "/home/iambrink/NOH_Thyroid_Cancer_Data/TAN-TESTING"
+MODEL_PATH  = "/home/iambrink/NOH_Thyroid_Cancer_Data/MODELS/EfficientNet_New_Model.pth"
+OUTPUT_XLSX = "/home/iambrink/NOH_Thyroid_Cancer_Data/TAN-TESTING-RESULTS/inference_results_efficientnet.xlsx"
+
 
 # ----------------------------
 #  FIXED PARAMETERS
@@ -49,11 +23,15 @@ DEVICE      = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 IMG_EXTS    = {".jpg", ".jpeg", ".png", ".tif", ".tiff", ".bmp"}
 
 # ----------------------------
-#  BUILD TRANSFORM
+#  HELPER FUNCTIONS
 # ----------------------------
+def is_image_file(fname: str) -> bool:
+    ext = os.path.splitext(fname.lower())[1]
+    return ext in IMG_EXTS
+
 def build_transform():
     """
-    Recreate exactly the preprocessing used during training:
+    Preprocessing used during training:
       • Resize to 224×224
       • ToTensor()
       • Normalize(mean=[0.485,0.456,0.406], std=[0.229,0.224,0.225])
@@ -67,170 +45,146 @@ def build_transform():
         )
     ])
 
-
-def is_image_file(fname: str) -> bool:
-    ext = os.path.splitext(fname.lower())[1]
-    return ext in IMG_EXTS
-
-
 def load_efficientnet_model(model_path: str) -> nn.Module:
     """
-    1. Instantiate an EfficientNet-B0 with pretrained=True.
-    2. Replace its classifier for 2 output classes.
-    3. Load the state_dict from the checkpoint.
-    4. Move to DEVICE and set to eval().
+    Instantiate EfficientNet-B0, replace its classifier for 2 outputs, load checkpoint, and set to eval().
     """
     model = models.efficientnet_b0(pretrained=True)
-    in_features = model.classifier[1].in_features
-    model.classifier[1] = nn.Linear(in_features, NUM_CLASSES)
+    in_f = model.classifier[1].in_features
+    model.classifier[1] = nn.Linear(in_f, NUM_CLASSES)
     state = torch.load(model_path, map_location=DEVICE)
     model.load_state_dict(state)
     model.to(DEVICE)
     model.eval()
     return model
 
-
-def run_inference_on_folder(model: nn.Module, transform: transforms.Compose, test_root: str):
+# ----------------------------
+#  INFERENCE & EXPORT
+# ----------------------------
+def run_inference_on_folder(model: nn.Module, transform: transforms.Compose, root: str):
     """
-    Walk through each patient subfolder under test_root. For each image:
+    Walk through each patient subfolder under root. For each image:
       • apply transform
-      • forward through EfficientNet → raw logits [1,2]
+      • forward through EfficientNet → logits [1,2]
       • softmax → probabilities [2]
-      • record prob_cancer (index 0), prob_non (index 1), predicted, confidence
-
     Returns:
-      records: list of dicts {patient_id, image_path, prob_cancer, prob_non, predicted, confidence}
-      per_patient_probs: dict mapping patient_id → list of (prob_cancer, prob_non)
+      records: list of {patient_id, image_path, prob_cancer, prob_non}
+      per_patient: dict mapping patient_id → list of (prob_cancer, prob_non)
     """
     records = []
-    per_patient_probs = {}  # patient_id → list of (prob_cancer, prob_non)
+    per_patient = {}
 
-    all_entries = sorted(os.listdir(test_root))
-    patient_dirs = [d for d in all_entries if os.path.isdir(os.path.join(test_root, d))]
-
-    for pid in tqdm(patient_dirs, desc="Patients"):
-        folder_path = os.path.join(test_root, pid)
-        image_files = sorted(os.listdir(folder_path))
-        per_patient_probs[pid] = []
-
-        for fname in image_files:
+    patients = sorted(d for d in os.listdir(root)
+                      if os.path.isdir(os.path.join(root, d)))
+    for pid in tqdm(patients, desc="Patients"):
+        folder = os.path.join(root, pid)
+        per_patient[pid] = []
+        for fname in sorted(os.listdir(folder)):
             if not is_image_file(fname):
                 continue
-
-            full_path = os.path.join(folder_path, fname)
-            img = Image.open(full_path).convert("RGB")
-            img_t = transform(img).unsqueeze(0).to(DEVICE)  # [1, 3, 224, 224]
+            path = os.path.join(folder, fname)
+            img  = Image.open(path).convert("RGB")
+            x    = transform(img).unsqueeze(0).to(DEVICE)
 
             with torch.no_grad():
-                outputs = model(img_t)                     # [1, 2]
-                probs   = torch.softmax(outputs, dim=1).squeeze(0)  # [2]
+                logits = model(x)
+                probs  = torch.softmax(logits, dim=1).squeeze(0)
 
-            prob0 = float(probs[0].cpu())  # cancerous
-            prob1 = float(probs[1].cpu())  # non‐cancerous
-            pred  = int(probs.argmax().cpu())  # 0 or 1
-            confidence = float(probs[pred].cpu())
-
+            p0 = float(probs[0].cpu())  # cancer
+            p1 = float(probs[1].cpu())  # benign
             records.append({
                 "patient_id":  pid,
-                "image_path":  full_path,
-                "prob_cancer": prob0,
-                "prob_non":    prob1,
-                "predicted":   pred,
-                "confidence":  confidence
+                "image_path":  path,
+                "prob_cancer": p0,
+                "prob_non":    p1,
             })
-            per_patient_probs[pid].append((prob0, prob1))
+            per_patient[pid].append((p0, p1))
 
-    return records, per_patient_probs
+    return records, per_patient
 
-
-def assemble_and_write_two_sheets(records, per_patient_probs, output_path: str):
+def assemble_and_write_two_sheets(records, per_patient, out_path: str):
     """
-    1) Build “PerImage” sheet: one row per image + “Overall” row after each patient.
-    2) Build “PatientSummary” sheet: one row per patient with aggregated metrics.
-    3) Write both sheets into a single Excel file.
+    Build two sheets:
+      • PerImage: each image + classification string + confidence + Overall row
+      • PatientSummary: one row per patient with aggregated classification string + confidence
     """
-    # Convert records → DataFrame, sort by patient_id & image_path
     df = pd.DataFrame.from_records(records)
     df.sort_values(["patient_id", "image_path"], inplace=True)
 
-    # Build PerImage rows (including “Overall”)
-    per_image_rows = []
-    for pid, group in df.groupby("patient_id"):
-        # Append each image-level row
-        for _, r in group.iterrows():
-            per_image_rows.append({
-                "patient_id":  pid,
-                "image_path":  r["image_path"],
-                "prob_cancer": r["prob_cancer"],
-                "prob_non":    r["prob_non"],
-                "predicted":   int(r["predicted"]),
-                "confidence":  r["confidence"]
+    # --- Sheet 1: PerImage ---
+    per_rows = []
+    for pid, grp in df.groupby("patient_id"):
+        # per-image rows
+        for _, r in grp.iterrows():
+            p0 = r["prob_cancer"]
+            p1 = r["prob_non"]
+            if p0 >= p1:
+                cls, conf = "cancerous", p0
+            else:
+                cls, conf = "benign", p1
+            per_rows.append({
+                "patient_id":   pid,
+                "image_path":   r["image_path"],
+                "prob_cancer":  p0,
+                "prob_non":     p1,
+                "classification": cls,
+                "confidence":   conf
             })
-
-        # Compute per-patient means
-        probs_list = per_patient_probs[pid]  # list of (prob_cancer, prob_non)
-        mean_p0 = float(sum(p[0] for p in probs_list) / len(probs_list))
-        mean_p1 = float(sum(p[1] for p in probs_list) / len(probs_list))
-        overall_pred = 0 if (mean_p0 >= 0.5) else 1
-        overall_confidence = mean_p0 if overall_pred == 0 else mean_p1
-
-        per_image_rows.append({
-            "patient_id":  pid,
-            "image_path":  "Overall",
-            "prob_cancer": mean_p0,
-            "prob_non":    mean_p1,
-            "predicted":   overall_pred,
-            "confidence":  overall_confidence
+        # overall summary row
+        probs = per_patient[pid]
+        mean0 = sum(p[0] for p in probs) / len(probs)
+        mean1 = sum(p[1] for p in probs) / len(probs)
+        if mean0 >= mean1:
+            overall_cls, overall_conf = "cancerous", mean0
+        else:
+            overall_cls, overall_conf = "benign", mean1
+        per_rows.append({
+            "patient_id":    pid,
+            "image_path":    "Overall",
+            "prob_cancer":   mean0,
+            "prob_non":      mean1,
+            "classification": overall_cls,
+            "confidence":    overall_conf
         })
 
-    per_image_df = pd.DataFrame.from_records(
-        per_image_rows,
-        columns=["patient_id", "image_path", "prob_cancer", "prob_non", "predicted", "confidence"]
-    )
+    per_df = pd.DataFrame.from_records(per_rows, columns=[
+        "patient_id","image_path","prob_cancer","prob_non","classification","confidence"
+    ])
 
-    # Build PatientSummary rows (one per patient)
-    summary_rows = []
-    for pid, probs_list in per_patient_probs.items():
-        mean_p0 = float(sum(p[0] for p in probs_list) / len(probs_list))
-        mean_p1 = float(sum(p[1] for p in probs_list) / len(probs_list))
-        overall_pred = 0 if (mean_p0 >= 0.5) else 1
-        overall_confidence = mean_p0 if overall_pred == 0 else mean_p1
-
-        summary_rows.append({
-            "patient_id":          pid,
-            "mean_prob_cancer":    mean_p0,
-            "mean_prob_non":       mean_p1,
-            "overall_predicted":   overall_pred,
-            "overall_confidence":  overall_confidence
+    # --- Sheet 2: PatientSummary ---
+    sum_rows = []
+    for pid, probs in per_patient.items():
+        mean0 = sum(p[0] for p in probs) / len(probs)
+        mean1 = sum(p[1] for p in probs) / len(probs)
+        if mean0 >= mean1:
+            cls, conf = "cancerous", mean0
+        else:
+            cls, conf = "benign", mean1
+        sum_rows.append({
+            "patient_id":         pid,
+            "mean_prob_cancer":   mean0,
+            "mean_prob_non":      mean1,
+            "overall_classification": cls,
+            "overall_confidence": conf
         })
 
-    summary_df = pd.DataFrame.from_records(
-        summary_rows,
-        columns=["patient_id", "mean_prob_cancer", "mean_prob_non", "overall_predicted", "overall_confidence"]
-    )
-    summary_df.sort_values("patient_id", inplace=True)
+    sum_df = pd.DataFrame.from_records(sum_rows, columns=[
+        "patient_id","mean_prob_cancer","mean_prob_non","overall_classification","overall_confidence"
+    ])
+    sum_df.sort_values("patient_id", inplace=True)
 
-    # Write both sheets into one Excel workbook
-    with pd.ExcelWriter(output_path) as writer:
-        per_image_df.to_excel(writer, sheet_name="PerImage", index=False)
-        summary_df.to_excel(writer, sheet_name="PatientSummary", index=False)
+    # write both sheets
+    with pd.ExcelWriter(out_path) as writer:
+        per_df.to_excel(writer, sheet_name="PerImage", index=False)
+        sum_df.to_excel(writer, sheet_name="PatientSummary", index=False)
 
-    print(f"→ Wrote two‐sheet Excel to {output_path}")
-
+    print(f"→ Wrote two‐sheet Excel with labels to {out_path}")
 
 def main():
-    # 1) Build transform used during training
     transform = build_transform()
-
-    # 2) Load the EfficientNet‐B0 checkpoint
-    model = load_efficientnet_model(MODEL_PATH)
-
-    # 3) Run inference over all patients/images
-    records, per_patient_probs = run_inference_on_folder(model, transform, TEST_ROOT)
-
-    # 4) Assemble and write both sheets to Excel
-    assemble_and_write_two_sheets(records, per_patient_probs, OUTPUT_XLSX)
-
+    model     = load_efficientnet_model(MODEL_PATH)
+    recs, per = run_inference_on_folder(model, transform, TEST_ROOT)
+    assemble_and_write_two_sheets(recs, per, OUTPUT_XLSX)
 
 if __name__ == "__main__":
     main()
